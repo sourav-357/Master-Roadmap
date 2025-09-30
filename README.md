@@ -378,14 +378,6 @@ Start date assumption: **Nov 15, 2025** (matches your plan). For each item: **wh
 
 ---
 
-If you want now, I’ll do **one** of the following next (pick one — I’ll produce it immediately, no waiting):
-
-1. **12-month week-by-week execution plan** (start Nov 15, 2025) — tasks, filenames, GitHub Actions CI snippet, Terraform starter file, 6 project issue checklists.
-2. **Compact resource pack** — a one-page study sheet per tech with exact videos, docs, and 3 micro-projects each.
-3. **DSA weekly calendar** — day-by-day problems/topics for the next 24 weeks (with example problems).
-
-Which one do you want right now?
-
 [1]: https://stackoverflow.blog/2025/01/01/developers-want-more-more-more-the-2024-results-from-stack-overflow-s-annual-developer-survey/?utm_source=chatgpt.com "the 2024 results from Stack Overflow's Annual Developer ..."
 [2]: https://www.cncf.io/wp-content/uploads/2025/04/cncf_annual_survey24_031225a.pdf?utm_source=chatgpt.com "Cloud Native 2024"
 [3]: https://www.ibm.com/think/topics/vector-database?utm_source=chatgpt.com "What Is A Vector Database?"
