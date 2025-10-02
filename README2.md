@@ -26,35 +26,35 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 * **Deliverable:** Repo with branch→PR→merge + GitHub Actions: run tests on push.
 * **Resources:** GitHub Learning Lab; Git documentation.
 
-### 4) React (hooks + functional components) — **6 weeks**
-
-* **What / Why:** Industry-standard for frontend roles. Most product roles expect React.
-* **Deliverable:** React SPA (project #1 front-end) that consumes your API.
-* **Resources:** React docs + your Udemy React courses (Maximilian / ZTM).
-
-### 5) Next.js (production React) — **3 weeks**
-
-* **What / Why:** Server side rendering, routing, production features. Strong preference for Next in product companies.
-* **Deliverable:** Portfolio or project deployed on Vercel with at least one SSR/SSG page.
-* **Resources:** Next.js docs + course you own.
-
-### 6) Node.js + Express (backend fundamentals in JS) — **5–6 weeks**
+### 4) Node.js + Express (backend fundamentals in JS) — **5–6 weeks**
 
 * **What / Why:** Backend for your full-stack projects. Learn request lifecycle, middleware, async handling, REST.
 * **Deliverable:** Production-like REST API (auth, users, products) with validation and tests.
 * **Resources:** ZTM Node course, Jonas Schmedtmann Node course.
 
-### 7) Relational DB (Postgres) + ORM (Prisma) — **3–4 weeks**
+### 5) Relational DB (Postgres) + ORM (Prisma) — **3–4 weeks**
 
 * **What / Why:** ACID transactions, joins, analytics — needed for serious backend roles.
 * **Deliverable:** Order/payments microservice (migrations + sample transactions).
 * **Resources:** Postgres docs; Prisma docs.
 
-### 8) NoSQL (MongoDB + Mongoose) — **2–3 weeks**
+### 6) NoSQL (MongoDB + Mongoose) — **2–3 weeks**
 
 * **What / Why:** Fast prototyping, common with Node. You must know both SQL and NoSQL use-cases.
 * **Deliverable:** Product catalog API using Mongo + aggregation queries.
 * **Resources:** MongoDB docs; Maximilian MongoDB course.
+
+### 7) React (hooks + functional components) — **6 weeks**
+
+* **What / Why:** Industry-standard for frontend roles. Most product roles expect React.
+* **Deliverable:** React SPA (project #1 front-end) that consumes your API.
+* **Resources:** React docs + your Udemy React courses (Maximilian / ZTM).
+
+### 8) Next.js (production React) — **3 weeks**
+
+* **What / Why:** Server side rendering, routing, production features. Strong preference for Next in product companies.
+* **Deliverable:** Portfolio or project deployed on Vercel with at least one SSR/SSG page.
+* **Resources:** Next.js docs + course you own.
 
 ### 9) TypeScript (strict) — **4–6 weeks** — *after Node in JS*
 
@@ -74,7 +74,7 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 * **Deliverable:** Multi-stage Dockerfile + docker-compose for local dev + one app deployed (API on EC2 or container registry → ECS/ECR OR simple EC2 + Nginx).
 * **Resources:** Docker docs; AWS Free Tier tutorials.
 
-### 12) System Design Basics & Security Basics — **ongoing starting month 4**
+### 12) System Design Basics & Security Basics + CS Core Subjects — **ongoing starting month 4**
 
 * **What / Why:** For 20+ LPA, system design questions and security hygiene are mandatory. Also learn caching, indexing, read/write patterns.
 * **Deliverable:** Design docs for URL shortener, chat, and e-commerce (HLD + LLD). Hardened API: rate-limits, helmet, input validation.
