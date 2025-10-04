@@ -4,6 +4,41 @@ Do **Priority A** perfectly. Build **2 flagship projects** (front + back + deplo
 
 ---
 
+# DSA (all-in-one plan)
+
+**Goal:** 12–18 months → be comfortable with medium → hard LeetCode + 500 quality problems over time.
+
+**Daily**
+
+* **60–120 min**: focused practice (one topic per day). Start with arrays/strings → two-pointers → hashmaps → sliding window → stacks/queues → trees → graphs → dp → greedy/heaps → sorting/searching.
+* **1 timed LeetCode problem (45–60 min)** 3×/week (simulate interview pressure).
+
+**Weekly**
+
+* **1 mock session** (90–120 min): 2 problems (one medium, one hard) + code review.
+* **1 contest** (Codeforces/CodeChef) every 1–2 weeks (optional, huge long-term benefit).
+
+**Monthly targets**
+
+* Month 1–3: Master arrays/strings/hashmaps + 150 easy→medium problems.
+* Month 4–9: Trees/graphs + medium problems (200 more).
+* Month 10–15: Dynamic programming, advanced graphs, tough mediums/hards (150-200).
+* Ongoing: Review patterns, redo mistakes, do timed mocks.
+
+**Resources**
+
+* **GeeksforGeeks** (concepts & your course).
+* **LeetCode** (practice + premium patterns if you can).
+* **NeetCode / Blind 75** (pattern lists).
+* **System design** (see below) — starts after you have backend basics.
+
+**Deliverables (DSA)**
+
+* Completed folders on GitHub with solved problems (well-commented).
+* 3 timed mock recordings / transcripts showing improvement.
+
+---
+
 ## PRIORITY A — MUST-HAVE (sequence-wise; do in this order)
 
 I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA with everything below (DSA is daily, not sequential).
@@ -360,4 +395,4 @@ Average target: **8 hours/day** sustainable (you said 15/day doable — I don’
 
 ---
 
-Say yes if you want me to convert this into the **12-month week-by-week plan** (I’ll include filenames, CI snippet, Terraform starter file, and explicit daily tasks). I’ll produce that immediately and precisely — no waiting.
+Say yes to the **12-month week-by-week plan** immediately and precisely — no waiting.
