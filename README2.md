@@ -190,6 +190,15 @@ Numbered sequence after Priority A:
 
 ---
 
+# Prioritization: what to learn first (short)
+
+1. HTML → CSS → JS (ES6) → Git → React → Node (JS) → Postgres/Mongo → TypeScript → Docker → Tests → Deploy to AWS. (All **Core**.)
+2. After core: Kubernetes, Terraform, Redis, Kafka, Observability. (Add **High-value** afterward.)
+3. AI features (LangChain, vector DBs) — start after you can deploy and run infra reliably (useful as differentiator for 20+ LPA).
+<br>
+
+---
+
 ## Projects — exact set, sequence, and deadlines (build these *in this order*)
 
 You must have **2 flagship projects** (one simple, one complex). Each must be deployed, typed (TS where possible), have tests, CI, and a clear README + architecture doc.
