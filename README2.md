@@ -1,10 +1,11 @@
 # TOPLINE (1-sentence)
 
 Do **Priority A** perfectly. Build **2 flagship projects** (front + back + deployed). Solve **DSA daily** (timed mocks weekly). Apply for internships / job openings aggressively once you have one deployed full-stack project + 150–200 DSA problems. Do Priority B after Priority A is stable.
+<br>
 
 ---
 
-# DSA (all-in-one plan)
+## DSA (all-in-one plan)
 
 **Goal:** 12–18 months → be comfortable with medium → hard LeetCode + 500 quality problems over time.
 
@@ -36,6 +37,7 @@ Do **Priority A** perfectly. Build **2 flagship projects** (front + back + deplo
 
 * Completed folders on GitHub with solved problems (well-commented).
 * 3 timed mock recordings / transcripts showing improvement.
+<br>
 
 ---
 
@@ -114,6 +116,7 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 * **What / Why:** For 20+ LPA, system design questions and security hygiene are mandatory. Also learn caching, indexing, read/write patterns.
 * **Deliverable:** Design docs for URL shortener, chat, and e-commerce (HLD + LLD). Hardened API: rate-limits, helmet, input validation.
 * **Resources:** Gaurav Sen videos; *Designing Data-Intensive Applications*; OWASP Top 10.
+<br>
 
 ---
 
@@ -136,6 +139,7 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 * **Language:** Stick to **Java** (you already know it) or **JS/TS** for backend. For competitive programming you can use **C++** if you want micro-win speed; **not required** for interviews. My blunt pick: use **Java** for DSA (interview acceptable) unless you're already fluent in C++.
 
 **Resources:** GFG course (your current), LeetCode, NeetCode, Blind 75.
+<br>
 
 ---
 
@@ -176,6 +180,7 @@ Numbered sequence after Priority A:
 8. **RAG / Vector DB / LangChain** — AI product skill (edge for AI product roles).
 
    * Why: Rapidly demanded for AI features, but optional for standard product roles.
+<br>
 
 ---
 
@@ -202,6 +207,7 @@ You must have **2 flagship projects** (one simple, one complex). Each must be de
 * **Type:** RAG chatbot or search + LLM integration (LangChain + vector DB).
 * **Why:** Differentiator for AI product roles.
 * **Deadline:** After Projects A & B, Q3–Q4 2027.
+<br>
 
 ---
 
@@ -214,6 +220,7 @@ You must have **2 flagship projects** (one simple, one complex). Each must be de
   * Build quick features for your portfolio.
   * Network & win recognitions → good resume bullets.
 * **How to succeed in hackathons:** Keep scope tiny, reuse existing codebase, build one real feature, focus on deployment, prepare a 3-minute demo.
+<br>
 
 ---
 
@@ -238,6 +245,7 @@ You must have **2 flagship projects** (one simple, one complex). Each must be de
 * Start with targeted companies (startups + product companies) with 2–3 tailored applications/day.
 * Use alumni & LinkedIn referrals heavily.
 * Keep one “interview-ready” resume version and a short pitch.
+<br>
 
 ---
 
@@ -260,6 +268,7 @@ You must have **2 flagship projects** (one simple, one complex). Each must be de
 **Portfolio**
 
 * Home, projects, contact + downloadable resume.
+<br>
 
 ---
 
@@ -295,6 +304,7 @@ You must have **2 flagship projects** (one simple, one complex). Each must be de
 * **Milestone**: 2 flagship projects + 3 blog posts + 50 mock interviews.
 
 **Note:** That full path is ~18–24 months of aggressive, consistent work. If you speed up, you can compress phases, but expect heavy workload.
+<br>
 
 ---
 
@@ -315,6 +325,7 @@ Average target: **8 hours/day** sustainable (you said 15/day doable — I don’
 * 3–4 hr deep DSA (timed mock).
 * 3–6 hr larger project features & deploy tasks.
 * 1–2 hr reading system design / blog writing.
+<br>
 
 ---
 
@@ -323,6 +334,7 @@ Average target: **8 hours/day** sustainable (you said 15/day doable — I don’
 * **Frontend + Backend:** stick with **JavaScript/TypeScript** (React + Node) — fastest to build full-stack.
 * **DSA interviews:** Stick with **Java** (you know it); it’s acceptable for FAANG. **C++** gives micro advantage in CP but not necessary. Only switch to C++ if you want to dominate CF problems regularly.
 * **When to use Python:** good for prototyping and some interviews, but not needed if you’re comfortable with Java/JS.
+<br>
 
 ---
 
@@ -331,6 +343,7 @@ Average target: **8 hours/day** sustainable (you said 15/day doable — I don’
 * Don’t do **Kubernetes/Terraform/Prometheus/Kafka/RAG** before you have 2 deployed projects + solid DSA. These are later-phase skills.
 * Don’t chase every new tool. Build 2 real deployed projects and tests first.
 * Don’t spend >2 weeks on CSS animations — focus on functionality and polish.
+<br>
 
 ---
 
@@ -340,6 +353,7 @@ Average target: **8 hours/day** sustainable (you said 15/day doable — I don’
 * **Target list:** product startups, mid-size product companies, top small FAANG-like companies for internships.
 * **Application tempo:** 5–15 applications/day until interviews convert.
 * **Interview prep:** 2 weeks before scheduled interviews drop your learning focus and do daily timed LeetCode + mock interviews with peers.
+<br>
 
 ---
 
@@ -368,6 +382,7 @@ Average target: **8 hours/day** sustainable (you said 15/day doable — I don’
 **End Phase 5 (Jun 30, 2028):**
 
 * Multiple interviews cleared, targeted offers, system design strong.
+<br>
 
 ---
 
@@ -382,6 +397,7 @@ Average target: **8 hours/day** sustainable (you said 15/day doable — I don’
 * **Testing:** Jest docs; Supertest; Playwright/Cypress.
 * **System design:** Gaurav Sen (YouTube), *Designing Data-Intensive Applications*.
 * **RAG/vector:** LangChain docs, pgvector docs (only if pursuing AI product role).
+<br>
 
 ---
 
@@ -392,6 +408,7 @@ Average target: **8 hours/day** sustainable (you said 15/day doable — I don’
 3. **Apply early and often.** Don’t wait for everything to be perfect to apply for internships from Mar 2026 onward.
 4. **Measure weekly:** projects progress, DSA total solved, mock interview count.
 5. **If you want my help next:** I will convert this into a **week-by-week 12-month execution plan** (file names, Git branches, exact LeetCode problems per day), or a **compact resource pack**. Tell me which now — I’ll produce it immediately.
+<br>
 
 ---
 
