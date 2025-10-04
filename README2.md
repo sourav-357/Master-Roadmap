@@ -1,8 +1,8 @@
 # TOPLINE (1-sentence)
 
 Do **Priority A** perfectly. Build **2 flagship projects** (front + back + deployed). Solve **DSA daily** (timed mocks weekly). Apply for internships / job openings aggressively once you have one deployed full-stack project + 150–200 DSA problems. Do Priority B after Priority A is stable.
-
 <br>
+
 ---
 
 ## DSA (all-in-one plan)
