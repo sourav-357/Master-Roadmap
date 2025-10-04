@@ -2,7 +2,7 @@
 
 Do **Priority A** perfectly. Build **2 flagship projects** (front + back + deployed). Solve **DSA daily** (timed mocks weekly). Apply for internships / job openings aggressively once you have one deployed full-stack project + 150–200 DSA problems. Do Priority B after Priority A is stable.
  <br>
-
+<br>
 ---
 
 ## DSA (all-in-one plan)
@@ -140,7 +140,7 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 **Resources:** GFG course (your current), LeetCode, NeetCode, Blind 75.
 <br>
-
+<br>
 ---
 
 ## PRIORITY B — EDGE / HIGH-VALUE (do after A or in parallel if you’re superhuman)
