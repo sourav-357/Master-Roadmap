@@ -81,6 +81,12 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 * **Deliverable:** Product catalog API using Mongo + aggregation queries.
 * **Resources:** MongoDB docs; Maximilian MongoDB course.
 
+## 6) ORM / DB tools — Prisma (for Postgres) & Mongoose (Mongo) — (2 weeks)
+
+* **What:** Type-safe DB client (Prisma) and Mongo ODM (Mongoose).
+* **Why:** Faster dev & fewer SQL mistakes; Prisma integrates well with TypeScript.
+* **Deliverable:** Prisma schema + migrations + queries.
+
 ### 7) React (hooks + functional components) — **6 weeks**
 
 * **What / Why:** Industry-standard for frontend roles. Most product roles expect React.
