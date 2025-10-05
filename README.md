@@ -117,7 +117,19 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 * **Deliverable:** Multi-stage Dockerfile + docker-compose for local dev + one app deployed (API on EC2 or container registry → ECS/ECR OR simple EC2 + Nginx).
 * **Resources:** Docker docs; AWS Free Tier tutorials.
 
-### 12) System Design Basics & Security Basics + CS Core Subjects — **ongoing starting month 4**
+### 12) GraphQL (queries, mutations, subscriptions, schema, resolvers) — **2 weeks**
+
+* **What / Why:** Gives you flexibility (many companies use GraphQL), more efficient client-server interactions, and subscription setups.
+* **Deliverable:** when doing your flagship backend project, you can add a GraphQL endpoint to your REST API. That single move will make your resume stand out in backend-heavy roles.
+* **Resources:** GraphQL with Node.js by Academind (Maximilian Schwarzmüller)
+
+### 13) WebSockets / Real-time / Socket.io (namespaces, rooms, real-time multiplayer) — **2 weeks**
+
+* **What / Why:** Many apps need live updates / chat / notifications — knowing sockets is a strong differentiator.
+* **Deliverable:** Design docs for URL shortener, chat, and e-commerce (HLD + LLD). Hardened API: rate-limits, helmet, input validation.
+* **Resources:** Traversy Media Socket.io Crash Course (1 hr) + Node.js + Socket.io + React Chat App by freeCodeCamp (3 hrs)
+
+### 14) System Design Basics & Security Basics + CS Core Subjects — **ongoing starting month 4**
 
 * **What / Why:** For 20+ LPA, system design questions and security hygiene are mandatory. Also learn caching, indexing, read/write patterns.
 * **Deliverable:** Design docs for URL shortener, chat, and e-commerce (HLD + LLD). Hardened API: rate-limits, helmet, input validation.
