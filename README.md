@@ -51,7 +51,7 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 * **Deliverable:** Product catalog API using Mongo + aggregation queries.
 * **Resources:** MongoDB docs; Maximilian MongoDB course.
 
-## 6) ORM / DB tools — Prisma (for Postgres) & Mongoose (Mongo) — **2 weeks**
+### 6) ORM / DB tools — Prisma (for Postgres) & Mongoose (Mongo) — **2 weeks**
 
 * **What:** Type-safe DB client (Prisma) and Mongo ODM (Mongoose).
 * **Why:** Faster dev & fewer SQL mistakes; Prisma integrates well with TypeScript.
@@ -98,6 +98,114 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 * **What / Why:** Many apps need live updates / chat / notifications — knowing sockets is a strong differentiator.
 * **Deliverable:** Design docs for URL shortener, chat, and e-commerce (HLD + LLD). Hardened API: rate-limits, helmet, input validation.
 * **Resources:** Traversy Media Socket.io Crash Course (1 hr) + Node.js + Socket.io + React Chat App by freeCodeCamp (3 hrs)
+
+### 14) Computer Networks (CN)** — **2 weeks**
+
+* **What:** OSI Model, TCP/IP, DNS, HTTP/HTTPS, REST, caching, load balancers.
+* **Why:** Foundation for backend scalability & interviews. You can’t talk about servers or APIs without knowing how data moves across the internet.
+* **Deliverable:** Notes + 1-page summary on “How a request travels from browser to server.”
+* **Resources:**
+
+  * Gate Smashers (YouTube playlist on CN — concise + clear)
+  * “Computer Networking: A Top-Down Approach” (Ch.1–5)
+  * ByteByteGo blog/videos for visuals (YouTube).
+
+---
+
+### 15) Operating System (OS)** — **2 weeks**
+
+* **What:** Processes, Threads, CPU Scheduling, Deadlocks, Memory management, Paging, Virtual Memory, Semaphores.
+* **Why:** Interviewers use OS to check system-level thinking — critical for LLD & backend interviews.
+* **Deliverable:** Mindmap or Notion page summarizing how OS handles multiple processes + example of producer–consumer problem using semaphores.
+* **Resources:**
+
+  * Gate Smashers (OS playlist)
+  * Notes from *Arora Sir / Kunal Kushwaha OS Notes*
+  * Book (if needed): Galvin — *Operating System Concepts.*
+
+---
+
+### 16) Database Management System (DBMS)** — **2 weeks**
+
+* **What:** Normalization, Joins, Indexing, Transactions, Isolation levels, ACID, Query Optimization.
+* **Why:** Core for backend + system design + interviews. Explains why Prisma/Mongoose behave the way they do.
+* **Deliverable:** Create a sample normalized schema + write SQL queries for joins, nested queries, and transaction examples.
+* **Resources:**
+
+  * Gate Smashers (DBMS playlist)
+  * *DBMS by Navkar Sir (Apna College YouTube)*
+  * Book: Korth — *Database System Concepts.*
+
+---
+
+### 17) Object-Oriented Design (OOD) / Low-Level Design (LLD)** — **3 weeks**
+
+* **What:** Classes, objects, design patterns (Singleton, Factory, Strategy, Observer, etc.), SOLID principles.
+* **Why:** FAANG & product companies test LLD to check code architecture and class design ability.
+* **Deliverable:** Build 2 mini LLD projects — e.g., *Parking Lot System* and *Tic-Tac-Toe with OOP patterns.*
+* **Resources:**
+
+  * *SDE Skills by Arpit Bhayani* (YouTube)
+  * *System Design Primer GitHub (LLD section)*
+  * *Refactoring.Guru* (Design Patterns visual guide)
+  * *Gaurav Sen’s LLD playlist.*
+
+---
+
+### 18) System Design Basics (HLD - Part 1)** — **3 weeks**
+
+* **What:** Scalability fundamentals — client-server architecture, load balancers, caching (Redis), CDN, databases (SQL vs NoSQL), replication, sharding.
+* **Why:** Foundation of every FAANG-level interview — proves you can build scalable systems.
+* **Deliverable:** Create architecture diagrams (Excalidraw or Whimsical) for:
+
+  * URL Shortener
+  * Instagram feed system
+* **Resources:**
+
+  * **System Design Primer (GitHub)** → Main base resource.
+  * *Gaurav Sen* YouTube playlist (concept-level clarity)
+  * *ByteByteGo* visual series on YouTube.
+
+---
+
+### 19) Advanced System Design (HLD - Part 2)** — **4 weeks**
+
+* **What:** Queues (Kafka, RabbitMQ), Rate Limiting, Consistent Hashing, CAP theorem, Event-driven design, Microservices architecture, API Gateway, CQRS.
+* **Why:** This is what FAANG expects for 20+ LPA interviews.
+* **Deliverable:** Design diagrams + pseudo-architectures for:
+
+  * WhatsApp or Slack chat architecture
+  * Netflix / YouTube streaming architecture
+* **Resources:**
+
+  * **System Design Primer (GitHub)** (continue)
+  * *Gaurav Sen deep dives* (Message queues, Consistent hashing)
+  * *Alex Xu – System Design Interview Vol 1 & 2 (Books)* → 100 % recommended.
+
+---
+
+### 20) Mock + Case Study Projects (System Design Capstone)** — **2 weeks**
+
+* **What:** Combine all concepts — CN + OS + DB + LLD + HLD — into 1 realistic capstone.
+* **Why:** Proof that you can apply design thinking like a senior engineer.
+* **Deliverable:** Choose one:
+
+  * *Design Scalable E-Commerce System*
+  * *Design YouTube / Instagram backend*
+  * *Write a full Notion doc or 10-slide PPT explaining trade-offs, scalability, DB choices.*
+* **Resources:**
+
+  * *Excalidraw / Whimsical* for diagramming
+  * *System Design Primer (reference architecture section)*
+
+---
+
+### 21) Revision + Mock Interviews (Final Phase)** — **2 weeks**
+
+* **What:** Revise CS core (CN, OS, DBMS), LLD patterns, and HLD architectures.
+* **Why:** System Design + CS Core questions form 30–40% of FAANG interviews after DSA.
+* **Deliverable:** 3 mock interviews (record or simulate) — one each for LLD, HLD, and mixed CS core.
+* **Resources:**
 
 <br>
 
