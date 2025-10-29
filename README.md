@@ -11,7 +11,7 @@ Do **Priority A** perfectly. Build **2 flagship projects** (front + back + deplo
 
 <br>
 
-# PRIORITY A — MUST-HAVE (sequence-wise; do in this order)
+# PRIORITY A — MUST (do in this order)
 
 I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA with everything below (DSA is daily, not sequential).
 
@@ -111,7 +111,7 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <br>
 
-# PRIORITY B — EDGE / HIGH-VALUE (do after A or in parallel if you’re superhuman)
+# PRIORITY B — EDGE (do after A)
 
 Numbered sequence after Priority A:
 
