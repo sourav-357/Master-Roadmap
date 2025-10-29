@@ -1,45 +1,12 @@
 # TOPLINE (1-sentence)
 
 Do **Priority A** perfectly. Build **2 flagship projects** (front + back + deployed). Solve **DSA daily** (timed mocks weekly). Apply for internships / job openings aggressively once you have one deployed full-stack project + 150–200 DSA problems. Do Priority B after Priority A is stable.
+
 <br>
 
 ---
 
-## DSA (all-in-one plan)
-
-**Goal:** 12–18 months → be comfortable with medium → hard LeetCode + 500 quality problems over time.
-
-**Daily**
-
-* **60–120 min**: focused practice (one topic per day). Start with arrays/strings → two-pointers → hashmaps → sliding window → stacks/queues → trees → graphs → dp → greedy/heaps → sorting/searching.
-* **1 timed LeetCode problem (45–60 min)** 3×/week (simulate interview pressure).
-
-**Weekly**
-
-* **1 mock session** (90–120 min): 2 problems (one medium, one hard) + code review.
-* **1 contest** (Codeforces/CodeChef) every 1–2 weeks (optional, huge long-term benefit).
-
-**Monthly targets**
-
-* Month 1–3: Master arrays/strings/hashmaps + 150 easy→medium problems.
-* Month 4–9: Trees/graphs + medium problems (200 more).
-* Month 10–15: Dynamic programming, advanced graphs, tough mediums/hards (150-200).
-* Ongoing: Review patterns, redo mistakes, do timed mocks.
-
-**Resources**
-
-* **GeeksforGeeks** (concepts & your course).
-* **LeetCode** (practice + premium patterns if you can).
-* **NeetCode / Blind 75** (pattern lists).
-* **System design** (see below) — starts after you have backend basics.
-
-**Deliverables (DSA)**
-
-* Completed folders on GitHub with solved problems (well-commented).
-* 3 timed mock recordings / transcripts showing improvement.
 <br>
-
----
 
 ## PRIORITY A — MUST-HAVE (sequence-wise; do in this order)
 
@@ -134,32 +101,12 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 * **What / Why:** For 20+ LPA, system design questions and security hygiene are mandatory. Also learn caching, indexing, read/write patterns.
 * **Deliverable:** Design docs for URL shortener, chat, and e-commerce (HLD + LLD). Hardened API: rate-limits, helmet, input validation.
 * **Resources:** Gaurav Sen videos; *Designing Data-Intensive Applications*; OWASP Top 10.
+
 <br>
 
 ---
 
-## DSA — exact daily/weekly plan (Do this **every day**, from Day 1)
-
-**Goal:** 12–15 months to comfortably solve medium→hard interview problems. Aim for **300–400 quality problems** as baseline for 20+ LPA; 500+ is elite.
-
-* **Daily (minimum):** 90–120 minutes focused practice.
-
-  * Weekdays: 1 topic + 1 easy/medium problem (45–60 min).
-  * Weekends: 2–3 hours — 1 timed medium and revisit mistakes.
-* **Timed practice:** 3×/week do 45–60min timed LeetCode problems (simulate interview).
-* **Mock interview:** 1×/week (90–120 min) — pair or record yourself solving 2 problems (one medium + one medium-hard). Do code review.
-* **Monthly targets:**
-
-  * Months 1–3: arrays/strings/hashmaps/two pointers + 150 easy→medium.
-  * Months 4–9: trees, graphs, BFS/DFS, heaps — 150–200 medium.
-  * Months 10–15: DP, advanced graphs, hard problems — 150+.
-* **Contest schedule:** Start CodeChef/Codeforces monthly after month 2. Do one contest bi-weekly if possible; treat contests as training, not score-chasing.
-* **Language:** Stick to **Java** (you already know it) or **JS/TS** for backend. For competitive programming you can use **C++** if you want micro-win speed; **not required** for interviews. My blunt pick: use **Java** for DSA (interview acceptable) unless you're already fluent in C++.
-
-**Resources:** GFG course (your current), LeetCode, NeetCode, Blind 75.
 <br>
-<br>
----
 
 ## PRIORITY B — EDGE / HIGH-VALUE (do after A or in parallel if you’re superhuman)
 
@@ -198,9 +145,12 @@ Numbered sequence after Priority A:
 8. **RAG / Vector DB / LangChain** — AI product skill (edge for AI product roles).
 
    * Why: Rapidly demanded for AI features, but optional for standard product roles.
+
 <br>
 
 ---
+
+<br>
 
 # Prioritization: what to learn first (short)
 
@@ -210,6 +160,8 @@ Numbered sequence after Priority A:
 <br>
 
 ---
+
+<br>
 
 ## Projects — exact set, sequence, and deadlines (build these *in this order*)
 
@@ -234,9 +186,12 @@ You must have **2 flagship projects** (one simple, one complex). Each must be de
 * **Type:** RAG chatbot or search + LLM integration (LangChain + vector DB).
 * **Why:** Differentiator for AI product roles.
 * **Deadline:** After Projects A & B, Q3–Q4 2027.
+
 <br>
 
 ---
+
+<br>
 
 ## Hackathons, CP and Contests — WHEN & HOW
 
@@ -247,9 +202,12 @@ You must have **2 flagship projects** (one simple, one complex). Each must be de
   * Build quick features for your portfolio.
   * Network & win recognitions → good resume bullets.
 * **How to succeed in hackathons:** Keep scope tiny, reuse existing codebase, build one real feature, focus on deployment, prepare a 3-minute demo.
+
 <br>
 
 ---
+
+<br>
 
 ## Internships — when to apply, what roles, and process
 
@@ -272,9 +230,12 @@ You must have **2 flagship projects** (one simple, one complex). Each must be de
 * Start with targeted companies (startups + product companies) with 2–3 tailored applications/day.
 * Use alumni & LinkedIn referrals heavily.
 * Keep one “interview-ready” resume version and a short pitch.
+
 <br>
 
 ---
+
+<br>
 
 ## Resume & LinkedIn — exact checklist (do this before applying)
 
@@ -295,9 +256,12 @@ You must have **2 flagship projects** (one simple, one complex). Each must be de
 **Portfolio**
 
 * Home, projects, contact + downloadable resume.
+
 <br>
 
 ---
+
+<br>
 
 ## EXACT TIMELINE (high-level phases — dates included)
 
@@ -331,9 +295,12 @@ You must have **2 flagship projects** (one simple, one complex). Each must be de
 * **Milestone**: 2 flagship projects + 3 blog posts + 50 mock interviews.
 
 **Note:** That full path is ~18–24 months of aggressive, consistent work. If you speed up, you can compress phases, but expect heavy workload.
+
 <br>
 
 ---
+
+<br>
 
 ## WEEK-BY-WEEK sample (first 12 weeks — actionable daily split)
 
@@ -352,27 +319,36 @@ Average target: **8 hours/day** sustainable (you said 15/day doable — I don’
 * 3–4 hr deep DSA (timed mock).
 * 3–6 hr larger project features & deploy tasks.
 * 1–2 hr reading system design / blog writing.
+
 <br>
 
 ---
+
+<br>
 
 ## Which languages: Java vs C++ vs Python vs JS?
 
 * **Frontend + Backend:** stick with **JavaScript/TypeScript** (React + Node) — fastest to build full-stack.
 * **DSA interviews:** Stick with **Java** (you know it); it’s acceptable for FAANG. **C++** gives micro advantage in CP but not necessary. Only switch to C++ if you want to dominate CF problems regularly.
 * **When to use Python:** good for prototyping and some interviews, but not needed if you’re comfortable with Java/JS.
+
 <br>
 
 ---
+
+<br>
 
 ## What to cut / avoid (blunt)
 
 * Don’t do **Kubernetes/Terraform/Prometheus/Kafka/RAG** before you have 2 deployed projects + solid DSA. These are later-phase skills.
 * Don’t chase every new tool. Build 2 real deployed projects and tests first.
 * Don’t spend >2 weeks on CSS animations — focus on functionality and polish.
+
 <br>
 
 ---
+
+<br>
 
 ## How to interview & apply — process & schedule
 
@@ -380,9 +356,12 @@ Average target: **8 hours/day** sustainable (you said 15/day doable — I don’
 * **Target list:** product startups, mid-size product companies, top small FAANG-like companies for internships.
 * **Application tempo:** 5–15 applications/day until interviews convert.
 * **Interview prep:** 2 weeks before scheduled interviews drop your learning focus and do daily timed LeetCode + mock interviews with peers.
+
 <br>
 
 ---
+
+<br>
 
 ## Measurable deliverables by checkpoints (so you can verify progress)
 
@@ -409,9 +388,12 @@ Average target: **8 hours/day** sustainable (you said 15/day doable — I don’
 **End Phase 5 (Jun 30, 2028):**
 
 * Multiple interviews cleared, targeted offers, system design strong.
+
 <br>
 
 ---
+
+<br>
 
 ## Resources (short, practical list)
 
@@ -424,9 +406,12 @@ Average target: **8 hours/day** sustainable (you said 15/day doable — I don’
 * **Testing:** Jest docs; Supertest; Playwright/Cypress.
 * **System design:** Gaurav Sen (YouTube), *Designing Data-Intensive Applications*.
 * **RAG/vector:** LangChain docs, pgvector docs (only if pursuing AI product role).
+
 <br>
 
 ---
+
+<br>
 
 ## Final blunt advice (no drama — what I’d tell myself)
 
@@ -435,8 +420,9 @@ Average target: **8 hours/day** sustainable (you said 15/day doable — I don’
 3. **Apply early and often.** Don’t wait for everything to be perfect to apply for internships from Mar 2026 onward.
 4. **Measure weekly:** projects progress, DSA total solved, mock interview count.
 5. **If you want my help next:** I will convert this into a **week-by-week 12-month execution plan** (file names, Git branches, exact LeetCode problems per day), or a **compact resource pack**. Tell me which now — I’ll produce it immediately.
+
 <br>
 
 ---
 
-Say yes to the **12-month week-by-week plan** immediately and precisely — no waiting.
+<br>
