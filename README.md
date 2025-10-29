@@ -99,12 +99,6 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 * **Deliverable:** Design docs for URL shortener, chat, and e-commerce (HLD + LLD). Hardened API: rate-limits, helmet, input validation.
 * **Resources:** Traversy Media Socket.io Crash Course (1 hr) + Node.js + Socket.io + React Chat App by freeCodeCamp (3 hrs)
 
-### 14) System Design Basics & Security Basics + CS Core Subjects — **ongoing starting month 4**
-
-* **What / Why:** For 20+ LPA, system design questions and security hygiene are mandatory. Also learn caching, indexing, read/write patterns.
-* **Deliverable:** Design docs for URL shortener, chat, and e-commerce (HLD + LLD). Hardened API: rate-limits, helmet, input validation.
-* **Resources:** Gaurav Sen videos; *Designing Data-Intensive Applications*; OWASP Top 10.
-
 <br>
 
 ---
