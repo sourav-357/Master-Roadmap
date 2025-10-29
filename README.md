@@ -198,7 +198,7 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
   * *Excalidraw / Whimsical* for diagramming
   * *System Design Primer (reference architecture section)*
 
----
+<hr>
 
 ### 21) Revision + Mock Interviews (Final Phase)** — **2 weeks**
 
