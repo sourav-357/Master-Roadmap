@@ -1,8 +1,6 @@
 
 ---
 
-<br>
-
 ## 🎯 Goal
 
 Land a **Software Development Engineer (SDE/SWE)** role at a **FAANG** (or FAANG-level) company through **off-campus** routes — salary target: **₹20+ LPA**.
