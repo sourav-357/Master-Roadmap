@@ -63,7 +63,7 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <hr>
 
-### 6) ORM / DB tools — Prisma (for Postgres) & Mongoose (Mongo) — **2 weeks**
+### 7) ORM / DB tools — Prisma (for Postgres) & Mongoose (Mongo) — **2 weeks**
 
 * **What:** Type-safe DB client (Prisma) and Mongo ODM (Mongoose).
 * **Why:** Faster dev & fewer SQL mistakes; Prisma integrates well with TypeScript.
@@ -71,7 +71,7 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <hr>
 
-### 7) React (hooks + functional components) — **6 weeks**
+### 8) React (hooks + functional components) — **6 weeks**
 
 * **What / Why:** Industry-standard for frontend roles. Most product roles expect React.
 * **Deliverable:** React SPA (project #1 front-end) that consumes your API.
@@ -79,7 +79,7 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <hr>
 
-### 8) Next.js (production React) — **3 weeks**
+### 9) Next.js (production React) — **3 weeks**
 
 * **What / Why:** Server side rendering, routing, production features. Strong preference for Next in product companies.
 * **Deliverable:** Portfolio or project deployed on Vercel with at least one SSR/SSG page.
@@ -87,7 +87,7 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <hr>
 
-### 9) TypeScript (strict) — **4–6 weeks** — *after Node in JS*
+### 10) TypeScript (strict) — **4–6 weeks** — *after Node in JS*
 
 * **What / Why:** Many hires require TS. Convert an existing project to strict TS — THIS proves scale readiness.
 * **Deliverable:** Convert the backend API to strict TypeScript (no `any`), type-safe controllers/services.
@@ -95,7 +95,7 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <hr>
 
-### 10) Testing (unit + integration + basic e2e) — **3–4 weeks**
+### 11) Testing (unit + integration + basic e2e) — **3–4 weeks**
 
 * **What / Why:** Tests = production-ready mindset; interviews ask about testability.
 * **Deliverable:** Jest unit tests, Supertest integration tests for APIs, CI runs tests and fails on <80% coverage.
@@ -103,19 +103,11 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <hr>
 
-### 11) Docker + Deploy (AWS/Vercel) — **3–4 weeks**
+### 12) Docker + Deploy (AWS/Vercel) — **3–4 weeks**
 
 * **What / Why:** Containerize and deploy. You must be able to deploy a real app on AWS or Vercel. Interviewers ask deployment questions.
 * **Deliverable:** Multi-stage Dockerfile + docker-compose for local dev + one app deployed (API on EC2 or container registry → ECS/ECR OR simple EC2 + Nginx).
 * **Resources:** Docker docs; AWS Free Tier tutorials.
-
-<hr>
-
-### 12) GraphQL (queries, mutations, subscriptions, schema, resolvers) — **2 weeks**
-
-* **What / Why:** Gives you flexibility (many companies use GraphQL), more efficient client-server interactions, and subscription setups.
-* **Deliverable:** when doing your flagship backend project, you can add a GraphQL endpoint to your REST API. That single move will make your resume stand out in backend-heavy roles.
-* **Resources:** GraphQL with Node.js by Academind (Maximilian Schwarzmüller)
 
 <hr>
 
@@ -266,18 +258,6 @@ Numbered sequence after Priority A:
 5. **Observability (Sentry/Prometheus/Grafana)** — monitoring and tracing.
 
    * Why: Production debugging, p95 latency analysis.
-
-6. **Event streaming (Kafka)** — for big distributed systems.
-
-   * Why: Required for infra-heavy roles.
-
-7. **Kubernetes + Terraform** — infra-as-code + orchestration (only if you want infra roles).
-
-   * Why: Necessary for infra-specialist jobs; great differentiator.
-
-8. **RAG / Vector DB / LangChain** — AI product skill (edge for AI product roles).
-
-   * Why: Rapidly demanded for AI features, but optional for standard product roles.
 
 <br>
 
