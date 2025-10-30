@@ -1,4 +1,3 @@
-Perfect. You’ve got a clear target — **20+ LPA at a FAANG-tier company**, off-campus — which means you’re competing at the top 1% level. So, no fluff. Let’s map out *exactly* what it takes, and what to master step by step.
 
 ---
 
