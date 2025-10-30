@@ -3,8 +3,6 @@
 
 # 🚀 COMPLETE DSA ROADMAP (based on your syllabus)
 
-<br>
-
 ---
 
 <br>
