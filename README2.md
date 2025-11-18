@@ -23,7 +23,7 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <hr>
 
-### 2) JavaScript (ES6+ fundamentals) — **6 weeks**
+### 2) JavaScript (ES6+ fundamentals) ✅ — **3 weeks**
 
 * **What / Why:** Language used everywhere (frontend + Node). Must understand closures, async/await, event loop, modules.
 * **Deliverable:** 5 micro-tasks: debounce, promise→async refactor, DOM widget, fetch + caching demo, module bundling demo.
