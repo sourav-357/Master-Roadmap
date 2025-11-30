@@ -512,7 +512,6 @@ Average target: **8 hours/day** sustainable (you said 15/day doable — I don’
 2. **Consistency beats intensity.** 6–8 hrs/day sustained for 18 months > 15 hrs/day for 3 months then burnout.
 3. **Apply early and often.** Don’t wait for everything to be perfect to apply for internships from Mar 2026 onward.
 4. **Measure weekly:** projects progress, DSA total solved, mock interview count.
-5. **If you want my help next:** I will convert this into a **week-by-week 12-month execution plan** (file names, Git branches, exact LeetCode problems per day), or a **compact resource pack**. Tell me which now — I’ll produce it immediately.
 
 <br>
 
