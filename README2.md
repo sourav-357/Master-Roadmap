@@ -47,11 +47,11 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <hr>
 
-### 5) Relational DB (Postgres) + ORM (Prisma) — **3–4 weeks**
+### 5) React (hooks + functional components) — **6 weeks**
 
-* **What / Why:** ACID transactions, joins, analytics — needed for serious backend roles.
-* **Deliverable:** Order/payments microservice (migrations + sample transactions).
-* **Resources:** Postgres docs; Prisma docs.
+* **What / Why:** Industry-standard for frontend roles. Most product roles expect React.
+* **Deliverable:** React SPA (project #1 front-end) that consumes your API.
+* **Resources:** React docs + your Udemy React courses (Maximilian / ZTM).
 
 <hr>
 
@@ -63,19 +63,19 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <hr>
 
-### 7) ORM / DB tools — Prisma (for Postgres) & Mongoose (Mongo) — **2 weeks**
+### 7) Relational DB (Postgres) + ORM (Prisma) — **3–4 weeks**
+
+* **What / Why:** ACID transactions, joins, analytics — needed for serious backend roles.
+* **Deliverable:** Order/payments microservice (migrations + sample transactions).
+* **Resources:** Postgres docs; Prisma docs.
+
+<hr>
+
+### 8) ORM / DB tools — Prisma (for Postgres) & Mongoose (Mongo) — **2 weeks**
 
 * **What:** Type-safe DB client (Prisma) and Mongo ODM (Mongoose).
 * **Why:** Faster dev & fewer SQL mistakes; Prisma integrates well with TypeScript.
 * **Deliverable:** Prisma schema + migrations + queries.
-
-<hr>
-
-### 8) React (hooks + functional components) — **6 weeks**
-
-* **What / Why:** Industry-standard for frontend roles. Most product roles expect React.
-* **Deliverable:** React SPA (project #1 front-end) that consumes your API.
-* **Resources:** React docs + your Udemy React courses (Maximilian / ZTM).
 
 <hr>
 
