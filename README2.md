@@ -55,15 +55,7 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <hr>
 
-### 6) NoSQL (MongoDB + Mongoose) — **2–3 weeks**
-
-* **What / Why:** Fast prototyping, common with Node. You must know both SQL and NoSQL use-cases.
-* **Deliverable:** Product catalog API using Mongo + aggregation queries.
-* **Resources:** MongoDB docs; Maximilian MongoDB course.
-
-<hr>
-
-### 7) Relational DB (Postgres) + ORM (Prisma) — **3–4 weeks**
+### 6) Relational DB (Postgres) + ORM (Prisma) — **3–4 weeks**
 
 * **What / Why:** ACID transactions, joins, analytics — needed for serious backend roles.
 * **Deliverable:** Order/payments microservice (migrations + sample transactions).
@@ -71,39 +63,7 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <hr>
 
-### 8) ORM / DB tools — Prisma (for Postgres) & Mongoose (Mongo) — **2 weeks**
-
-* **What:** Type-safe DB client (Prisma) and Mongo ODM (Mongoose).
-* **Why:** Faster dev & fewer SQL mistakes; Prisma integrates well with TypeScript.
-* **Deliverable:** Prisma schema + migrations + queries.
-
-<hr>
-
-### 9) Next.js (production React) — **3 weeks**
-
-* **What / Why:** Server side rendering, routing, production features. Strong preference for Next in product companies.
-* **Deliverable:** Portfolio or project deployed on Vercel with at least one SSR/SSG page.
-* **Resources:** Next.js docs + course you own.
-
-<hr>
-
-### 10) TypeScript (strict) — **4–6 weeks** — *after Node in JS*
-
-* **What / Why:** Many hires require TS. Convert an existing project to strict TS — THIS proves scale readiness.
-* **Deliverable:** Convert the backend API to strict TypeScript (no `any`), type-safe controllers/services.
-* **Resources:** TypeScript handbook; hands-on TS projects.
-
-<hr>
-
-### 11) Testing (unit + integration + basic e2e) — **3–4 weeks**
-
-* **What / Why:** Tests = production-ready mindset; interviews ask about testability.
-* **Deliverable:** Jest unit tests, Supertest integration tests for APIs, CI runs tests and fails on <80% coverage.
-* **Resources:** Jest docs; Supertest docs; Playwright/Cypress for e2e (optional minimal).
-
-<hr>
-
-### 12) Docker + Deploy (AWS/Vercel) — **3–4 weeks**
+### 7) Docker + Deploy (AWS/Vercel) — **3–4 weeks**
 
 * **What / Why:** Containerize and deploy. You must be able to deploy a real app on AWS or Vercel. Interviewers ask deployment questions.
 * **Deliverable:** Multi-stage Dockerfile + docker-compose for local dev + one app deployed (API on EC2 or container registry → ECS/ECR OR simple EC2 + Nginx).
@@ -111,11 +71,49 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <hr>
 
-### 13) WebSockets / Real-time / Socket.io (namespaces, rooms, real-time multiplayer) — **2 weeks**
+### 8) Next.js (production React) — **3 weeks**
+
+* **What / Why:** Server side rendering, routing, production features. Strong preference for Next in product companies.
+* **Deliverable:** Portfolio or project deployed on Vercel with at least one SSR/SSG page.
+* **Resources:** Next.js docs + course you own.
+
+<hr>
+
+### 9) TypeScript (strict) — **4–6 weeks** — *after Node in JS*
+
+* **What / Why:** Many hires require TS. Convert an existing project to strict TS — THIS proves scale readiness.
+* **Deliverable:** Convert the backend API to strict TypeScript (no `any`), type-safe controllers/services.
+* **Resources:** TypeScript handbook; hands-on TS projects.
+
+<hr>
+
+### 10) Testing (unit + integration + basic e2e) — **3–4 weeks**
+
+* **What / Why:** Tests = production-ready mindset; interviews ask about testability.
+* **Deliverable:** Jest unit tests, Supertest integration tests for APIs, CI runs tests and fails on <80% coverage.
+* **Resources:** Jest docs; Supertest docs; Playwright/Cypress for e2e (optional minimal).
+
+<hr>
+
+### 11) WebSockets / Real-time / Socket.io (namespaces, rooms, real-time multiplayer) — **2 weeks**
 
 * **What / Why:** Many apps need live updates / chat / notifications — knowing sockets is a strong differentiator.
 * **Deliverable:** Design docs for URL shortener, chat, and e-commerce (HLD + LLD). Hardened API: rate-limits, helmet, input validation.
 * **Resources:** Traversy Media Socket.io Crash Course (1 hr) + Node.js + Socket.io + React Chat App by freeCodeCamp (3 hrs)
+
+<hr>
+
+### 12) NoSQL (MongoDB + Mongoose) — **2–3 weeks**
+
+* **What / Why:** Fast prototyping, common with Node. You must know both SQL and NoSQL use-cases.
+* **Deliverable:** Product catalog API using Mongo + aggregation queries.
+* **Resources:** MongoDB docs; Maximilian MongoDB course.
+
+<hr>
+
+### 13) Core CSE Subjects - **(4th Sem)**
+
+<hr>
 
 <hr>
 
