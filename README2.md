@@ -55,11 +55,11 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <hr>
 
-### 6) Relational DB (Postgres) + ORM (Prisma) — **3–4 weeks**
+### 6) NoSQL (MongoDB + Mongoose) — **2–3 weeks**
 
-* **What / Why:** ACID transactions, joins, analytics — needed for serious backend roles.
-* **Deliverable:** Order/payments microservice (migrations + sample transactions).
-* **Resources:** Postgres docs; Prisma docs.
+* **What / Why:** Fast prototyping, common with Node. You must know both SQL and NoSQL use-cases.
+* **Deliverable:** Product catalog API using Mongo + aggregation queries.
+* **Resources:** MongoDB docs; Maximilian MongoDB course.
 
 <hr>
 
@@ -103,11 +103,11 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <hr>
 
-### 12) NoSQL (MongoDB + Mongoose) — **2–3 weeks**
+### 12) Relational DB (Postgres) + ORM (Prisma) — **3–4 weeks**
 
-* **What / Why:** Fast prototyping, common with Node. You must know both SQL and NoSQL use-cases.
-* **Deliverable:** Product catalog API using Mongo + aggregation queries.
-* **Resources:** MongoDB docs; Maximilian MongoDB course.
+* **What / Why:** ACID transactions, joins, analytics — needed for serious backend roles.
+* **Deliverable:** Order/payments microservice (migrations + sample transactions).
+* **Resources:** Postgres docs; Prisma docs.
 
 <hr>
 
