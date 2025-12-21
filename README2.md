@@ -39,7 +39,7 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <hr>
 
-### 4) Node.js + Express (backend fundamentals in JS) — **5–6 weeks**
+### 4) Node.js + Express (backend fundamentals in JS) ✅ — **5–6 weeks**
 
 * **What / Why:** Backend for your full-stack projects. Learn request lifecycle, middleware, async handling, REST.
 * **Deliverable:** Production-like REST API (auth, users, products) with validation and tests.
@@ -47,7 +47,7 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <hr>
 
-### 5) React (hooks + functional components) — **6 weeks**
+### 5) React (hooks + functional components) ✅ — **6 weeks**
 
 * **What / Why:** Industry-standard for frontend roles. Most product roles expect React.
 * **Deliverable:** React SPA (project #1 front-end) that consumes your API.
@@ -55,7 +55,7 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <hr>
 
-### 6) NoSQL (MongoDB + Mongoose) — **2–3 weeks**
+### 6) NoSQL (MongoDB + Mongoose) ✅ — **2–3 weeks**
 
 * **What / Why:** Fast prototyping, common with Node. You must know both SQL and NoSQL use-cases.
 * **Deliverable:** Product catalog API using Mongo + aggregation queries.
@@ -71,11 +71,11 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <hr>
 
-### 8) Next.js (production React) — **3 weeks**
+### 8) WebSockets / Real-time / Socket.io (namespaces, rooms, real-time multiplayer) — **2 weeks**
 
-* **What / Why:** Server side rendering, routing, production features. Strong preference for Next in product companies.
-* **Deliverable:** Portfolio or project deployed on Vercel with at least one SSR/SSG page.
-* **Resources:** Next.js docs + course you own.
+* **What / Why:** Many apps need live updates / chat / notifications — knowing sockets is a strong differentiator.
+* **Deliverable:** Design docs for URL shortener, chat, and e-commerce (HLD + LLD). Hardened API: rate-limits, helmet, input validation.
+* **Resources:** Traversy Media Socket.io Crash Course (1 hr) + Node.js + Socket.io + React Chat App by freeCodeCamp (3 hrs)
 
 <hr>
 
@@ -95,11 +95,11 @@ I number them 1 → 12: finish #1 before moving to #2 etc. You may overlap DSA w
 
 <hr>
 
-### 11) WebSockets / Real-time / Socket.io (namespaces, rooms, real-time multiplayer) — **2 weeks**
+### 11) Next.js (production React) — **3 weeks**
 
-* **What / Why:** Many apps need live updates / chat / notifications — knowing sockets is a strong differentiator.
-* **Deliverable:** Design docs for URL shortener, chat, and e-commerce (HLD + LLD). Hardened API: rate-limits, helmet, input validation.
-* **Resources:** Traversy Media Socket.io Crash Course (1 hr) + Node.js + Socket.io + React Chat App by freeCodeCamp (3 hrs)
+* **What / Why:** Server side rendering, routing, production features. Strong preference for Next in product companies.
+* **Deliverable:** Portfolio or project deployed on Vercel with at least one SSR/SSG page.
+* **Resources:** Next.js docs + course you own.
 
 <hr>
 
