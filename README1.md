@@ -1,308 +1,94 @@
-
----
-
-# 🚀 Complete Java Roadmap (for FAANG-level SDE backend dev)
-
----
-
-## 🧩 PHASE 1: Java Core Foundations (2–3 weeks)
-
-**Goal:** Get comfortable writing clean, object-oriented, efficient Java.
-
-### 📘 Topics (learn in this exact order)
-
-1. **Java Basics**
-
-   * JVM, JRE, JDK
-   * Data types, variables, operators
-   * Input/Output (Scanner, BufferedReader)
-   * Typecasting, static vs dynamic typing
-   * Conditional statements, loops
-   * Arrays + command-line args
-   * Comments, naming conventions
-
-2. **Methods & Recursion**
-
-   * Method creation, overloading
-   * Pass-by-value in Java
-   * Recursion basics (factorial, Fibonacci, backtracking)
-   * Scope, local vs instance variables
-
-3. **Strings**
-
-   * String vs StringBuilder vs StringBuffer
-   * Common methods (`substring`, `equals`, `indexOf`, etc.)
-   * Immutability
-   * String formatting
-
-4. **OOP Concepts (core pillar)**
-
-   * Classes, objects, constructors
-   * this & super keywords
-   * Encapsulation, Abstraction, Inheritance, Polymorphism
-   * Access modifiers (public/private/protected/default)
-   * Static keyword, initialization blocks
-   * Abstract classes & Interfaces
-   * Method overriding & overloading
-   * Composition vs Inheritance
-   * final keyword (class, variable, method)
-
-5. **Exception Handling**
-
-   * try-catch-finally
-   * throw vs throws
-   * Checked vs unchecked exceptions
-   * Custom exceptions
-
-6. **Wrapper Classes & Autoboxing**
-
-   * Integer, Double, Character
-   * Parsing (`Integer.parseInt`)
-   * Auto-boxing/unboxing
-
-7. **Enums & Annotations**
-
-   * Enum basics
-   * Use-case in constants and switch statements
-   * Built-in annotations (`@Override`, `@Deprecated`, etc.)
-
----
-
-### 🧠 Resources
-
-* 🎥 *YouTube:* [Kunal Kushwaha – Java + OOPs Course](https://www.youtube.com/watch?v=xk4_1vDrzzo) (free, well-structured)
-* 📘 *Text:* *Head First Java* (2nd Ed.) – best for intuition.
-* 💻 *Practice:* GFG “Java Programming” section + HackerRank “Java” track.
-
----
-
-## ⚙️ PHASE 2: Advanced Java Programming (4–5 weeks)
-
-**Goal:** Master the language features that real-world developers use daily.
-
-### 📘 Topics (exact sequence)
-
-1. **Collections Framework (Critical)**
-
-   * Collection hierarchy
-   * List, Set, Map interfaces
-   * ArrayList, LinkedList, Vector, Stack
-   * Queue, Deque, PriorityQueue
-   * HashMap, TreeMap, HashSet, LinkedHashSet
-   * Iterator & ListIterator
-   * Comparable vs Comparator
-   * Generics with collections
-
-2. **Generics (deeply)**
-
-   * Generic classes & methods
-   * Wildcards (`?`, `extends`, `super`)
-   * Bounded types
-
-3. **Java I/O (Streams API)**
-
-   * Byte stream vs Character stream
-   * FileInputStream, FileOutputStream, BufferedReader, BufferedWriter
-   * Serialization and Deserialization (`ObjectOutputStream`)
-   * Try-with-resources
-
-4. **Inner & Nested Classes**
-
-   * Static vs non-static inner classes
-   * Anonymous classes
-   * Local inner classes
-
-5. **Lambda Expressions & Functional Interfaces**
-
-   * Syntax & purpose
-   * @FunctionalInterface annotation
-   * Method references (`ClassName::methodName`)
-
-6. **Stream API (Functional Programming)**
-
-   * Map, Filter, Reduce
-   * Collectors, groupingBy, partitioningBy
-   * Optional, flatMap
-   * Parallel streams
-
-7. **Date & Time API (java.time)**
-
-   * LocalDate, LocalTime, LocalDateTime
-   * Duration, Period, Instant
-   * Formatting & parsing (DateTimeFormatter)
-
-8. **Multithreading & Concurrency**
-
-   * Thread class & Runnable interface
-   * Thread lifecycle
-   * Synchronization, locks, deadlocks
-   * wait(), notify(), notifyAll()
-   * Executor framework (ThreadPoolExecutor)
-   * Callable & Future
-   * Concurrent collections (ConcurrentHashMap, BlockingQueue)
-
-9. **Memory Management & Garbage Collection**
-
-   * Stack vs Heap memory
-   * Object lifecycle
-   * finalize(), reference types (Soft, Weak, Phantom)
-   * GC algorithms (G1, CMS – conceptual only)
-
-10. **Java 8+ Features Recap**
-
-* Lambda, Streams, Optional, Method references, Default methods in interfaces
-
----
-
-### 🧠 Resources
-
-* 🎥 *YouTube:* “Java Full Course + Advanced” – [Telusko (Naveen Reddy)](https://www.youtube.com/watch?v=8cm1x4bC610)
-* 📘 *Book:* *Effective Java* – Joshua Bloch (for deep understanding)
-* 💻 *Practice:*
-
-  * Build small CLI tools:
-
-    * Todo app using Collections
-    * File reader/writer utility
-    * Threaded downloader simulation
-
----
-
-## 💻 PHASE 3: Java for Real-World Development (3–4 weeks)
-
-**Goal:** Get comfortable using Java the way backend teams actually do.
-
-### 📘 Topics (in this order)
-
-1. **Java Packages & Modularization**
-
-   * Packages, imports, visibility
-   * JARs, modular JDK (Java 9+)
-   * Build tools: Maven basics (pom.xml, dependencies)
-
-2. **Java Networking**
-
-   * Sockets (TCP/UDP basics)
-   * URL, HttpURLConnection
-   * Basic REST client (HttpClient API in Java 11+)
-
-3. **JDBC (Database Connectivity)**
-
-   * JDBC drivers
-   * Connection, Statement, PreparedStatement
-   * CRUD operations
-   * Transactions & batch processing
-   * Connection pooling (HikariCP basics)
-
-4. **File Handling + JSON + XML**
-
-   * JSON parsing using Jackson / Gson
-   * XML parsing (DOM, SAX basics)
-
-5. **Unit Testing in Java**
-
-   * JUnit 5 basics
-   * Assertions, annotations
-   * Mockito for mocking dependencies
-   * Test structure best practices
-
-6. **Logging**
-
-   * Log4j / SLF4J setup
-   * Logging levels and configuration
-
-7. **Java 11–17 Enhancements (modern syntax)**
-
-   * var keyword
-   * Text blocks
-   * Switch expressions
-   * Records (Java 14+)
-   * Sealed classes (Java 17)
-
----
-
-### 🧠 Resources
-
-* 🎥 *YouTube:* “Java JDBC + Networking” – Telusko / CodeWithHarry
-* 📘 *Docs:* [Official Java Tutorials (Oracle)](https://docs.oracle.com/javase/tutorial/)
-* 💻 *Practice:*
-
-  * Build a CLI app that reads JSON and stores data to MySQL using JDBC.
-  * Write JUnit tests for your methods.
-
----
-
-## ⚡ PHASE 4: Industry-Level Java (4–6 weeks)
-
-**Goal:** Be production-ready. This is the bridge to Spring Boot & backend jobs.
-
-### 📘 Topics (final layer)
-
-1. **JVM Internals**
-
-   * JIT, ClassLoader, Bytecode, Reflection
-   * Memory model (heap, stack, metaspace)
-   * Classpath vs Modulepath
-   * How the compiler + JIT optimize code
-
-2. **Concurrency Advanced**
-
-   * Locks & Semaphores (ReentrantLock, ReadWriteLock)
-   * Atomic variables
-   * CompletableFuture
-   * Parallel streams & thread safety
-
-3. **Design Patterns in Java**
-
-   * Singleton, Factory, Builder, Prototype
-   * Strategy, Observer, Decorator
-   * Dependency Injection basics
-
-4. **Java + Spring Boot intro (preview for backend)**
-
-   * Maven project setup
-   * Annotations, dependency injection
-   * REST controller, Service, Repository layers
-
-5. **Performance & Best Practices**
-
-   * Effective Java principles
-   * Memory leaks, profiling tools
-   * Clean Code style (naming, DRY, SOLID)
-
----
-
-### 🧠 Resources
-
-* 🎥 *YouTube:* “Java Design Patterns” – *Derek Banas*
-* 📘 *Book:* *Effective Java* (Joshua Bloch) — reread with project context.
-* 📘 *Book:* *Clean Code* (Robert C. Martin) — language-agnostic but vital.
-* 💻 *Project idea:*
-
-  * Build a “Library Management System” CLI or REST app (Spring Boot optional).
-  * Add logging, multithreading (for background sync), and JUnit tests.
-
----
-
-## 🧭 Optional: Mastery Layer (if you want to go beyond)
-
-* Java NIO & Channels
-* Reflection API (runtime class inspection)
-* Custom annotations
-* Java Agent / Instrumentation basics (for observability tools)
-* Advanced Garbage Collection tuning (if aiming for backend infra roles)
-
----
-
-## 📆 Summary Table
-
-| Phase   | Duration  | Focus                      | Outcome                            |
-| ------- | --------- | -------------------------- | ---------------------------------- |
-| Phase 1 | 2–3 weeks | Java syntax + OOP          | Clean Java code                    |
-| Phase 2 | 4–5 weeks | Advanced language features | Strong Java mastery                |
-| Phase 3 | 3–4 weeks | Real-world use             | Ready for backend frameworks       |
-| Phase 4 | 4–6 weeks | Industry-level mastery     | Spring Boot ready, interview solid |
-
----
-
-Would you like me to turn this into a **week-by-week plan (like “Week 1 → learn JVM + data types, Week 2 → OOPs + Strings, etc.” with YouTube + doc links per week)** next? That would make it execution-ready.
+Your 14-Week Paid Remote Fullstack SDE Internship Plan starts **Dec 27, 2025**.[1][2]
+
+## Week 1: Dec 27-Jan 2 (Foundation Kickoff)
+- [ ] **DSA (2 hrs/day):** Finish GFG Sorting theory + 20 problems (intersection, union, inversions, Kth smallest)
+- [ ] **DSA (cont.):** Start Part 8 Matrix - theory videos + 10 problems (spiral, transpose, rotate)
+- [ ] **Project:** LMS wireframe + setup (React frontend, Node/Express/Mongo backend) - 2 hrs/day
+- [ ] **Profile:** Update LinkedIn headline + pin DevTinder repo - 1 hr total
+- [ ] **Apps:** 10/day Internshala (WFH + fullstack + paid) = **70 total**
+- [ ] **Track:** Create Notion table: "Week | DSA | Projects | Apps | Mocks"
+- **Milestone:** Sorting ✅, Matrix started, LMS repo created
+
+## Week 2: Jan 3-9 (LMS Live)
+- [ ] **DSA (2 hrs/day):** Finish Matrix Part 8 (15 problems) + start Part 9 Hashing theory + 10 problems
+- [ ] **Project:** LMS core - User auth (JWT login/register), Course CRUD APIs - 2.5 hrs/day
+- [ ] **Project:** Deploy LMS on Vercel + GitHub README (architecture diagram)
+- [ ] **Apps:** 15/day Internshala + LinkedIn search "SDE intern remote" = **100 total**
+- [ ] **Mock:** 1 Pramp.com DSA session (arrays practice)
+- **Milestone:** LMS live demo ✅, 170 apps
+
+## Week 3: Jan 10-16 (Hashing + Apps Wave)
+- [ ] **DSA (2 hrs/day):** Finish Hashing Part 9 (20 problems: freq, distinct, pair sum)
+- [ ] **DSA:** Start Part 10 Strings theory + 10 problems (anagram, palindrome)
+- [ ] **Project:** LMS polish - Student enroll/quiz feature + role-based routes
+- [ ] **Apps:** 20/day (Internshala + LinkedIn + Wellfound startups) = **140 total**
+- [ ] **Cold DMs:** 20 LinkedIn recruiters ("UCET BTech | MERN | Open remote intern")
+- [ ] **Mock:** 2 Pramp sessions
+- **Milestone:** Hashing ✅, 310 apps, 3 mocks
+
+## Week 4: Jan 17-23 (SaaS Start)
+- [ ] **DSA (2.5 hrs/day):** Finish Strings Part 10 (15 problems) + Part 11 Linked List theory + 10 problems
+- [ ] **Project:** SaaS Project 2 - Fork LMS, add Admin/Teacher/Student dashboards - 2 hrs/day
+- [ ] **LeetCode:** Start 5 easy/day (Two Sum, Valid Parenthesis)
+- [ ] **Apps:** 20/day = **140 total**
+- [ ] **Follow-up:** Email/DM 50 week-old applications
+- **Milestone:** SaaS base ✅, 450 apps
+
+## Week 5: Jan 24-30 (SaaS Progress)
+- [ ] **DSA:** Finish Linked List Part 11 (20 problems: reverse k, cycle detect) + Stack theory
+- [ ] **LeetCode:** 7 easy/day + Striver Sheet Days 1-10
+- [ ] **Project:** SaaS - Role analytics (Recharts), deploy Vercel
+- [ ] **Apps:** 25/day (target TCS Virtual, SkillIndia paid) = **175 total**
+- [ ] **Mock:** 2 sessions (LL + projects)
+- **Milestone:** SaaS live ✅, 625 apps
+
+## Week 6: Jan 31-Feb 6 (Interview Prep Begins)
+- [ ] **DSA:** Stack/Queue Part 12 (20 problems: next greater, stock span)
+- [ ] **LeetCode:** 10 medium/week (LRU Cache start)
+- [ ] **Project:** SaaS polish - Payments stub (Stripe test mode)
+- [ ] **Apps:** 25/day = **175 total**
+- [ ] **Mock:** 3 sessions (Interviewing.io if possible)
+- **Milestone:** 800 apps, first OAs expected
+
+## Week 7: Feb 7-13 (Trees + Chat Start)
+- [ ] **DSA:** Tree/BST Part 13 (25 problems: inorder, LCA, kth smallest)
+- [ ] **LeetCode:** 10 medium/week
+- [ ] **Project:** Chat Project 3 - Socket.io setup in SaaS (course rooms)
+- [ ] **Apps:** 20/day maintenance + referrals = **140 total**
+- [ ] **Behavioral:** Write 5 STAR stories (projects, internships)
+- **Milestone:** Trees started, Chat base
+
+## Week 8: Feb 14-20 (Real-Time Magic)
+- [ ] **DSA:** Graph intro Part 14 (BFS/DFS, 15 problems)
+- [ ] **Project:** Chat complete - typing indicators, online status, deploy
+- [ ] **LeetCode:** 12 medium/week + 1 contest
+- [ ] **Apps:** 20/day = **140 total**
+- [ ] **Mock:** 4/week (full process: OA → Tech → Project)
+- **Milestone:** Chat live ✅, 12+ mocks, 5+ interviews
+
+## Week 9: Feb 21-27 (Interview Peak)
+- [ ] **DSA:** Heap/Greedy Parts 15-16 (20 problems total)
+- [ ] **LeetCode:** 15 medium/week, revise rejects
+- [ ] **Apps:** 15/day + follow-ups = **105 total**
+- [ ] **Mock:** 4/week + record English practice
+- **Milestone:** 10+ interviews, 1-2 offers likely
+
+## Week 10: Feb 28-Mar 6 (Offer Close)
+- [ ] **DSA:** Revise weak topics (graphs, trees)
+- [ ] **LeetCode:** Contests + company-specific
+- [ ] **Offers:** Negotiate remote 25k+ stipends
+- [ ] **Apps:** 10/day backups = **70 total**
+- **Milestone:** First offer signed
+
+## Week 11-14: Mar 7-27 (Backup/Secure)
+- [ ] Polish DSA, multiple offers, convert unpaid→paid if needed
+- **End Goal:** Paid remote Fullstack SDE internship (20-40k/month)
+
+## EXTRA: Profile Checklists (Do Week 1)
+**Resume Updates:**
+- Add LMS under Projects (week 2)
+- SaaS + Chat (weeks 5, 8)
+- DSA: "450+ solved: Arrays→Graphs"
+
+<hr />
+<br />
