@@ -1,4 +1,6 @@
-Your 14-Week Paid Remote Fullstack SDE Internship Plan starts **Dec 27, 2025**.[1][2]
+Your 14-Week Paid Remote Fullstack SDE Internship Plan starts **Dec 27, 2025**.
+
+<hr />
 
 ## Week 1: Dec 27-Jan 2 (Foundation Kickoff)
 - [ ] **DSA (2 hrs/day):** Finish GFG Sorting theory + 20 problems (intersection, union, inversions, Kth smallest)
@@ -9,6 +11,8 @@ Your 14-Week Paid Remote Fullstack SDE Internship Plan starts **Dec 27, 2025**.[
 - [ ] **Track:** Create Notion table: "Week | DSA | Projects | Apps | Mocks"
 - **Milestone:** Sorting ✅, Matrix started, LMS repo created
 
+<hr />
+
 ## Week 2: Jan 3-9 (LMS Live)
 - [ ] **DSA (2 hrs/day):** Finish Matrix Part 8 (15 problems) + start Part 9 Hashing theory + 10 problems
 - [ ] **Project:** LMS core - User auth (JWT login/register), Course CRUD APIs - 2.5 hrs/day
@@ -16,6 +20,8 @@ Your 14-Week Paid Remote Fullstack SDE Internship Plan starts **Dec 27, 2025**.[
 - [ ] **Apps:** 15/day Internshala + LinkedIn search "SDE intern remote" = **100 total**
 - [ ] **Mock:** 1 Pramp.com DSA session (arrays practice)
 - **Milestone:** LMS live demo ✅, 170 apps
+
+<hr />
 
 ## Week 3: Jan 10-16 (Hashing + Apps Wave)
 - [ ] **DSA (2 hrs/day):** Finish Hashing Part 9 (20 problems: freq, distinct, pair sum)
@@ -26,6 +32,8 @@ Your 14-Week Paid Remote Fullstack SDE Internship Plan starts **Dec 27, 2025**.[
 - [ ] **Mock:** 2 Pramp sessions
 - **Milestone:** Hashing ✅, 310 apps, 3 mocks
 
+<hr />
+
 ## Week 4: Jan 17-23 (SaaS Start)
 - [ ] **DSA (2.5 hrs/day):** Finish Strings Part 10 (15 problems) + Part 11 Linked List theory + 10 problems
 - [ ] **Project:** SaaS Project 2 - Fork LMS, add Admin/Teacher/Student dashboards - 2 hrs/day
@@ -33,6 +41,8 @@ Your 14-Week Paid Remote Fullstack SDE Internship Plan starts **Dec 27, 2025**.[
 - [ ] **Apps:** 20/day = **140 total**
 - [ ] **Follow-up:** Email/DM 50 week-old applications
 - **Milestone:** SaaS base ✅, 450 apps
+
+<hr />
 
 ## Week 5: Jan 24-30 (SaaS Progress)
 - [ ] **DSA:** Finish Linked List Part 11 (20 problems: reverse k, cycle detect) + Stack theory
@@ -42,6 +52,8 @@ Your 14-Week Paid Remote Fullstack SDE Internship Plan starts **Dec 27, 2025**.[
 - [ ] **Mock:** 2 sessions (LL + projects)
 - **Milestone:** SaaS live ✅, 625 apps
 
+<hr />
+
 ## Week 6: Jan 31-Feb 6 (Interview Prep Begins)
 - [ ] **DSA:** Stack/Queue Part 12 (20 problems: next greater, stock span)
 - [ ] **LeetCode:** 10 medium/week (LRU Cache start)
@@ -49,6 +61,8 @@ Your 14-Week Paid Remote Fullstack SDE Internship Plan starts **Dec 27, 2025**.[
 - [ ] **Apps:** 25/day = **175 total**
 - [ ] **Mock:** 3 sessions (Interviewing.io if possible)
 - **Milestone:** 800 apps, first OAs expected
+
+<hr />
 
 ## Week 7: Feb 7-13 (Trees + Chat Start)
 - [ ] **DSA:** Tree/BST Part 13 (25 problems: inorder, LCA, kth smallest)
@@ -58,6 +72,8 @@ Your 14-Week Paid Remote Fullstack SDE Internship Plan starts **Dec 27, 2025**.[
 - [ ] **Behavioral:** Write 5 STAR stories (projects, internships)
 - **Milestone:** Trees started, Chat base
 
+<hr />
+
 ## Week 8: Feb 14-20 (Real-Time Magic)
 - [ ] **DSA:** Graph intro Part 14 (BFS/DFS, 15 problems)
 - [ ] **Project:** Chat complete - typing indicators, online status, deploy
@@ -66,12 +82,16 @@ Your 14-Week Paid Remote Fullstack SDE Internship Plan starts **Dec 27, 2025**.[
 - [ ] **Mock:** 4/week (full process: OA → Tech → Project)
 - **Milestone:** Chat live ✅, 12+ mocks, 5+ interviews
 
+<hr />
+
 ## Week 9: Feb 21-27 (Interview Peak)
 - [ ] **DSA:** Heap/Greedy Parts 15-16 (20 problems total)
 - [ ] **LeetCode:** 15 medium/week, revise rejects
 - [ ] **Apps:** 15/day + follow-ups = **105 total**
 - [ ] **Mock:** 4/week + record English practice
 - **Milestone:** 10+ interviews, 1-2 offers likely
+
+<hr />
 
 ## Week 10: Feb 28-Mar 6 (Offer Close)
 - [ ] **DSA:** Revise weak topics (graphs, trees)
@@ -80,9 +100,13 @@ Your 14-Week Paid Remote Fullstack SDE Internship Plan starts **Dec 27, 2025**.[
 - [ ] **Apps:** 10/day backups = **70 total**
 - **Milestone:** First offer signed
 
+<hr />
+
 ## Week 11-14: Mar 7-27 (Backup/Secure)
 - [ ] Polish DSA, multiple offers, convert unpaid→paid if needed
 - **End Goal:** Paid remote Fullstack SDE internship (20-40k/month)
+
+<hr />
 
 ## EXTRA: Profile Checklists (Do Week 1)
 **Resume Updates:**
