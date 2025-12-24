@@ -199,3 +199,4 @@
 - Never skip mocks – they compress interview experience into weeks instead of years.
 
 Stick to this corrected plan (with **Greedy as Part 19**) and keep executing daily; with 3 strong projects and 500+ DSA problems, you will be **paid remote SDE-internship ready** by the end of this 14‑week sprint. 
+
