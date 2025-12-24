@@ -5,11 +5,13 @@
 **DSA Path (GFG Course Folders):**  
 01 Intro → 02 Mathematics → 03 Bit Magic → 04 Recursion → 05 Arrays → 06 Searching → 07 Sorting → 08 Matrix → 09 Hashing → 10 Strings → 11 Linked List → 12 Stack → 13 Queue → 14 Deque → 15 Tree → 16 Binary Search Tree → 17 Heap → 18 Graph → **19 Greedy** → 20 Backtracking → 21 Dynamic Programming → 22 Trie → 23 Segment & BIT → 24 Disjoint Set
 
+<br>
+
 ---
 
-## 📚 Week 1: Jan 1–7 (Foundation + LMS Setup)
+<br>
 
-### ✅ Tasks
+## 📚 Week 1: Jan 1–7 (Foundation + LMS Setup)
 
 - **DSA:** Finish 05 Arrays recap + 06 Searching revision if needed, then start **07 Sorting** theory + 20 problems (intersection, union, inversions, Kth smallest).
 - **DSA Next:** Begin **08 Matrix** – theory + 10 problems (spiral, transpose, rotate). 
@@ -25,11 +27,13 @@
 ### 🎯 Milestone
 Sorting ✅, Matrix started, LMS repo created & pushed.
 
+<br>
+
 ---
 
-## 🔄 Week 2: Jan 8–14 (Matrix + Hashing + LMS Live)
+<br>
 
-### ✅ Tasks
+## 🔄 Week 2: Jan 8–14 (Matrix + Hashing + LMS Live)
 
 - **DSA:**  
   - Finish **08 Matrix** (target total 15–20 problems).  
@@ -47,11 +51,13 @@ Sorting ✅, Matrix started, LMS repo created & pushed.
 ### 🎯 Milestone
 LMS live demo ✅, ~170 apps cumulative.
 
+<br>
+
 ---
 
-## ⚡ Week 3: Jan 15–21 (Hashing Deep + LMS Polish)
+<br>
 
-### ✅ Tasks
+## ⚡ Week 3: Jan 15–21 (Hashing Deep + LMS Polish)
 
 - **DSA:**  
   - Finish **09 Hashing** – 20 problems total (freq maps, subarray with sum k, distinct counts, pair sum variations).   
@@ -67,11 +73,13 @@ LMS live demo ✅, ~170 apps cumulative.
 ### 🎯 Milestone
 Hashing ✅, Strings started, ~310 apps, 3 mocks done.
 
+<br>
+
 ---
 
-## 🏗️ Week 4: Jan 22–28 (Strings + Linked List + SaaS Start)
+<br>
 
-### ✅ Tasks
+## 🏗️ Week 4: Jan 22–28 (Strings + Linked List + SaaS Start)
 
 - **DSA:**  
   - Finish **10 Strings** – 15+ problems including sliding window string problems. 
@@ -87,11 +95,13 @@ Hashing ✅, Strings started, ~310 apps, 3 mocks done.
 ### 🎯 Milestone
 SaaS base dashboards ✅, Linked List started, ~450 apps.
 
+<br>
+
 ---
 
-## 📊 Week 5: Jan 29–Feb 4 (Linked List Master + SaaS Live)
+<br>
 
-### ✅ Tasks
+## 📊 Week 5: Jan 29–Feb 4 (Linked List Master + SaaS Live)
 
 - **DSA:**  
   - Finish **11 Linked List** – 20 problems (reverse in k-group, detect/remove cycle, intersection, clone LL).
@@ -107,11 +117,13 @@ SaaS base dashboards ✅, Linked List started, ~450 apps.
 ### 🎯 Milestone
 SaaS live ✅, ~625 apps, LL + stacks comfortable.
 
+<br>
+
 ---
 
-## 🛠️ Week 6: Feb 5–11 (Stack/Queue + Payments)
+<br>
 
-### ✅ Tasks
+## 🛠️ Week 6: Feb 5–11 (Stack/Queue + Payments)
 
 - **DSA:**  
   - Finish **12 Stack** and **13 Queue** – ~20 problems (NGO, stock span, sliding window with deque, circular queue). 
@@ -125,11 +137,13 @@ SaaS live ✅, ~625 apps, LL + stacks comfortable.
 ### 🎯 Milestone
 ~800 apps, first serious online assessments expected.
 
+<br>
+
 ---
 
-## 🌳 Week 7: Feb 12–18 (Trees + Chat Project 3 Start)
+<br>
 
-### ✅ Tasks
+## 🌳 Week 7: Feb 12–18 (Trees + Chat Project 3 Start)
 
 - **DSA:**  
   - Begin **15 Tree** + **16 Binary Search Tree** together – 25 problems (traversals, height, diameter, LCA, kth smallest in BST). 
@@ -143,11 +157,13 @@ SaaS live ✅, ~625 apps, LL + stacks comfortable.
 ### 🎯 Milestone
 Trees/BST in progress, Chat base (rooms + basic messaging) working.
 
+<br>
+
 ---
 
-## 💬 Week 8: Feb 19–25 (Graphs + Chat Live)
+<br>
 
-### ✅ Tasks
+## 💬 Week 8: Feb 19–25 (Graphs + Chat Live)
 
 - **DSA:**  
   - Start **18 Graph** – BFS, DFS, adjacency list/matrix, 15 problems (connected components, shortest path in unweighted graph, cycle detection).  
@@ -161,11 +177,13 @@ Trees/BST in progress, Chat base (rooms + basic messaging) working.
 ### 🎯 Milestone
 3 polished live projects (LMS, SaaS, Chat) ✅, 12+ mocks, 5+ interviews.
 
+<br>
+
 ---
 
-## 🎯 Week 9: Feb 26–Mar 4 (Heap + Greedy + Interview Peak)
+<br>
 
-### ✅ Tasks
+## 🎯 Week 9: Feb 26–Mar 4 (Heap + Greedy + Interview Peak)
 
 - **DSA:**  
   - **17 Heap:** 15 problems (kth largest/smallest, heaps for scheduling, priority queues).  
@@ -177,11 +195,13 @@ Trees/BST in progress, Chat base (rooms + basic messaging) working.
 ### 🎯 Milestone
 10+ interviews done, 1–2 offers likely in pipeline.
 
+<br>
+
 ---
 
-## 💰 Week 10: Mar 5–11 (Closing Offers)
+<br>
 
-### ✅ Tasks
+## 💰 Week 10: Mar 5–11 (Closing Offers)
 
 - **DSA Revision:**  
   - Revise **Graphs, Trees, DP intro (21 Dynamic Programming basics)** – do 5–7 classic DP problems (0/1 knap, LIS, coin change easy). 
@@ -194,11 +214,13 @@ Trees/BST in progress, Chat base (rooms + basic messaging) working.
 ### 🎯 Milestone
 First offer signed; keep interviewing for better fit/CTC.
 
+<br>
+
 ---
 
-## 🔒 Weeks 11–14: Mar 12–Apr 8 (Secure + Depth)
+<br>
 
-### ✅ Tasks
+## 🔒 Weeks 11–14: Mar 12–Apr 8 (Secure + Depth)
 
 - **DSA:**  
   - Add 10–15 problems from **20 Backtracking**, **22 Trie**, and **23 Segment Tree/BIT** – only if interviews need them. 
@@ -210,7 +232,11 @@ First offer signed; keep interviewing for better fit/CTC.
   - Try to convert unpaid/low-stipend offers to higher value using your strong portfolio.  
   - If you get multiple offers, choose remote, tech-heavy, and with mentorship.
 
+<br>
+
 ---
+
+<br>
 
 ## 📋 Resume & GitHub Content (Do in Week 2 and Update Later)
 
@@ -231,6 +257,8 @@ First offer signed; keep interviewing for better fit/CTC.
 ### DSA Line:  
 `Solved 500+ problems (GFG + LeetCode): Arrays, Searching, Sorting, Hashing, Strings, Linked List, Stack/Queue, Trees, Graphs, Heap, Greedy, basic DP.` 
 
+<br>
+
 ---
 
 ## 🎯 How to Apply Smart (So You Actually Get Paid)
@@ -246,7 +274,11 @@ First offer signed; keep interviewing for better fit/CTC.
 - **Consistency rule:**  
   - Minimum 10–15 solid applications **every single day**, plus 3–5 follow-ups to older ones.
 
+<br>
+
 ---
+
+<br>
 
 ## 🧠 Extra Advice to Be Internship-Ready
 
@@ -257,6 +289,14 @@ First offer signed; keep interviewing for better fit/CTC.
 - Sleep, health, and a little exercise will keep your brain sharp; fever recovery first, then push hard.  
 - Never skip mocks – they compress interview experience into weeks instead of years.
 
+<br>
+
 ---
 
+<br>
+
 > **💪 Final Note:** Stick to this corrected plan (with **Greedy as Part 19**) and keep executing daily; with 3 strong projects and 500+ DSA problems, you will be **paid remote SDE-internship ready** by the end of this 14‑week sprint.
+
+<br>
+
+---
