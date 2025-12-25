@@ -1,302 +1,209 @@
-# 🚀 14-Week Paid Remote Fullstack SDE Internship Plan
+# 🚀 14‑Week Paid Remote Full‑Stack SDE Internship Plan
 
-**Start:** Jan 1, 2026 • **Goal:** Paid remote Fullstack SDE internship (25–40k/month) by April 2026  
-
-**DSA Path (GFG Course Folders):**  
-01 Intro → 02 Mathematics → 03 Bit Magic → 04 Recursion → 05 Arrays → 06 Searching → 07 Sorting → 08 Matrix → 09 Hashing → 10 Strings → 11 Linked List → 12 Stack → 13 Queue → 14 Deque → 15 Tree → 16 Binary Search Tree → 17 Heap → 18 Graph → **19 Greedy** → 20 Backtracking → 21 Dynamic Programming → 22 Trie → 23 Segment & BIT → 24 Disjoint Set
-
-<br>
+> **Timeline:** Jan 1, 2026 → Apr 8, 2026  
+> **Goal:** Paid remote Full‑Stack SDE internship (₹25k–₹40k / month)  
+> **Profile:** B.Tech CSE @ UCET (2028) · MERN · GFG DSA Self‑Paced + LeetCode  
 
 ---
 
-<br>
+## 🧩 DSA Roadmap (GFG Self‑Paced)
 
-## 📚 Week 1: Jan 1–7 (Foundation + LMS Setup)
-
-- **DSA:** Finish 05 Arrays recap + 06 Searching revision if needed, then start **07 Sorting** theory + 20 problems (intersection, union, inversions, Kth smallest).
-- **DSA Next:** Begin **08 Matrix** – theory + 10 problems (spiral, transpose, rotate). 
-- **Project 1 – LMS (2 hrs/day):**  
-  - Day 1–2: Wireframes (Student, Instructor, Admin) + tech stack finalize (React, Node/Express, MongoDB, JWT).  
-  - Day 3–7: React app + basic pages, Express server, Mongo connection, user model scaffold.  
-- **Profile (1 hr total):**  
-  - LinkedIn headline: `B.Tech UCET | MERN | 200+ DSA (GFG+LC) | Open to Remote SDE Intern`  
-  - Pin DevTinder + best project repos.  
-- **Applications:** 10/day on Internshala (filters: work from home, full stack / web dev, stipend > 5k, duration ≥ 3 months) = **70 total**. 
-- **Tracking:** Create Notion/Sheet: `Week | DSA Topic | #Qs | Project Progress | #Apps | #Mocks | Outcomes`.  
-
-### 🎯 Milestone
-Sorting ✅, Matrix started, LMS repo created & pushed.
-
-<br>
+`01 Intro → 02 Maths → 03 Bit Magic → 04 Recursion → 05 Arrays → 06 Searching (done)`  
+`Next: 07 Sorting → 08 Matrix → 09 Hashing → 10 Strings → 11 Linked List → 12 Stack → 13 Queue → 14 Deque → 15 Tree → 16 BST → 17 Heap → 18 Graph → 19 Greedy → 20 Backtracking → 21 DP → 22 Trie → 23 Segment Tree/BIT → 24 Disjoint Set`[file:32]
 
 ---
 
-<br>
+## 📦 Projects Roadmap (3 Separate → 1 Flagship Later)
 
-## 🔄 Week 2: Jan 8–14 (Matrix + Hashing + LMS Live)
+1. **Project A – LMS**  
+   Student / Instructor / Admin LMS with auth, course CRUD, enrollments, and quizzes.
 
-- **DSA:**  
-  - Finish **08 Matrix** (target total 15–20 problems).  
-  - Start **09 Hashing** – maps/sets basics + 10 problems (frequency, distinct elements, pair sum).  
-- **LMS Core (2.5 hrs/day):**  
-  - Implement auth: register/login with JWT, bcrypt passwords.  
+2. **Project B – SaaS Analytics Platform**  
+   Multi‑tenant dashboards (institutes), analytics, and mock payments (Stripe/Razorpay test).
+
+3. **Project C – Real‑Time Course Chat**  
+   Socket.io‑based real‑time chat integrated into LMS/SaaS (course rooms, online status).
+
+> Later, these three become **one flagship Edu‑SaaS product** on your resume.
+
+---
+
+## 📅 Week‑by‑Week Breakdown
+
+### 🗓️ Week 1 (Jan 1–7) – Sorting Kickoff + LMS Setup
+
+- **DSA**
+  - Quick recap: `05 Arrays`, `06 Searching` (only weak topics).  
+  - Start `07 Sorting` (Bubble, Selection, Insertion, Merge, Quick, counting‑style) + **20 problems** (intersection/union, inversions, Kth smallest, chocolate distribution, 2/3‑type arrays).[file:32]
+- **Project A – LMS (≈2 hrs/day)**
+  - Finalize scope + tech stack (React, Node.js/Express, MongoDB, JWT).  
+  - Setup repo, folder structure, base React app, Express server, Mongo connection, and User model.
+- **Career**
+  - Refresh LinkedIn headline & About, pin DevTinder + NASA + best existing project.[file:29][file:31]  
+  - Create an **Application Tracker** (Notion/Sheet: `Date | Company | Role | Link | Status | Notes`).
+
+---
+
+### 🗓️ Week 2 (Jan 8–14) – Sorting Done + Matrix + LMS Auth
+
+- **DSA**
+  - Finish `07 Sorting` (total ≈25 problems).  
+  - Start `08 Matrix` (snake, transpose, rotate, spiral, boundary traversal) + **10–12 problems**.[file:32]
+- **Project A – LMS**
+  - Implement auth: register/login, bcrypt passwords, JWT in HTTP‑only cookies.  
+  - Build basic pages: signup, login, dashboard shell.
+- **Deployment**
+  - Deploy LMS frontend to Vercel, backend to Render/Railway (single live URL in README).  
+- **Applications**
+  - **10 high‑quality applications/day** (Internshala + LinkedIn).  
+  - Each with a short custom note referencing MERN + DevTinder + LMS demo.
+
+---
+
+### 🗓️ Week 3 (Jan 15–21) – Hashing + LMS Core
+
+- **DSA**
+  - Finish `08 Matrix` (15–20 total problems).  
+  - Start `09 Hashing` (maps/sets, frequency, distinct, pair sum, subarray with sum, zero‑sum, longest subarray with given sum) + **18–20 problems**.[file:32]
+- **Project A – LMS**
   - Course CRUD APIs (create/update/delete/list).  
-  - Basic React pages for signup/login/course list.  
-- **Deployment:**  
-  - Deploy frontend to Vercel, backend to Render/Railway, connect env vars.  
-  - Add README: short description, tech stack, architecture diagram (draw.io or Excalidraw).  
-- **Applications:** 15/day (Internshala + LinkedIn search `"SDE intern remote"`, `"MERN intern remote"`) = **100 total**.
-- **Mock:** 1 Pramp DSA session (arrays/searching/sorting focus).  
-
-### 🎯 Milestone
-LMS live demo ✅, ~170 apps cumulative.
-
-<br>
+  - Student enroll/unenroll, “My Courses” page, basic quiz/assignment model + UI.
+- **LeetCode**
+  - 3–4 easy problems/day on arrays, hashing, and prefix/suffix patterns.
+- **Applications**
+  - 10–12 targeted apps/day + 2–3 follow‑ups from older ones.
 
 ---
 
-<br>
+### 🗓️ Week 4 (Jan 22–28) – Strings + LMS Polish
 
-## ⚡ Week 3: Jan 15–21 (Hashing Deep + LMS Polish)
-
-- **DSA:**  
-  - Finish **09 Hashing** – 20 problems total (freq maps, subarray with sum k, distinct counts, pair sum variations).   
-  - Start **10 Strings** – theory + 10 problems (anagram check, palindrome, first non-repeating char, pattern search basic). 
-- **LMS V2 (2–2.5 hrs/day):**  
-  - Student enroll/unenroll, my-courses page.  
-  - Quiz/assignment feature (basic MCQ, score stored).  
-  - Role-based routes: Admin (manage courses), Instructor, Student.  
-- **Applications:** 20/day (Internshala + LinkedIn + Wellfound early-stage startups) = **140 total**. 
-- **Cold DMs:** 20 recruiters/engineering managers: short note + links to LMS live + GitHub.  
-- **Mock:** 2 Pramp sessions (hashing + strings + project explanation).  
-
-### 🎯 Milestone
-Hashing ✅, Strings started, ~310 apps, 3 mocks done.
-
-<br>
+- **DSA**
+  - Start `10 Strings`: anagrams, palindrome, first non‑repeating char, pattern search, sliding window strings, Rabin‑Karp/KMP basics + **15 problems**.[file:32]
+- **Project A – LMS**
+  - Role‑based access (Admin / Instructor / Student).  
+  - Clean UI passes: responsive layout, navigation, loading and error states, basic form validation.
+- **Profile**
+  - Add LMS to GitHub with strong README (features, tech stack, screenshots, live link).  
+  - Update resume “Projects” to: DevTinder, NASA Mission Control, LMS.[file:29][file:31]
 
 ---
 
-<br>
+### 🗓️ Week 5 (Jan 29–Feb 4) – Linked List + Project B (SaaS) Start
 
-## 🏗️ Week 4: Jan 22–28 (Strings + Linked List + SaaS Start)
-
-- **DSA:**  
-  - Finish **10 Strings** – 15+ problems including sliding window string problems. 
-  - Start **11 Linked List** – theory + 10 problems (reverse, middle, merge two lists, detect cycle). 
-- **Project 2 – SaaS Platform (2 hrs/day):**  
-  - Fork LMS backend/frontend.  
-  - Setup separate tenants/logical orgs (e.g., multiple institutes).  
-  - Implement Admin/Teacher/Student dashboards UI (sidebar, stats cards).  
-- **LeetCode:** 5 easy/day (Two Sum, Valid Parentheses, Merge Sorted Array, Remove Duplicates, Best Time to Buy/Sell I).  
-- **Applications:** 20/day = **140 total**, start focusing more on quality JD match.  
-- **Follow-up:** Send follow-up emails/LinkedIn messages for ~50 applications older than 7 days.  
-
-### 🎯 Milestone
-SaaS base dashboards ✅, Linked List started, ~450 apps.
-
-<br>
+- **DSA**
+  - Start `11 Linked List` (singly + doubly): reverse, middle, detect/remove cycle, intersection, merge two lists, clone LL, reverse in K‑group + **18–20 problems**.[file:32]
+- **Project B – SaaS Analytics**
+  - Fork / reuse LMS backend and frontend base.  
+  - Design multi‑tenant model (Organization / Institute) and associate users/courses.  
+  - Build admin / teacher / student dashboards with sidebar and summary stats placeholders.
+- **LeetCode**
+  - 5 easy + 2 medium/week related to linked list.
 
 ---
 
-<br>
+### 🗓️ Week 6 (Feb 5–11) – Stack & Queue + SaaS Analytics
 
-## 📊 Week 5: Jan 29–Feb 4 (Linked List Master + SaaS Live)
-
-- **DSA:**  
-  - Finish **11 Linked List** – 20 problems (reverse in k-group, detect/remove cycle, intersection, clone LL).
-  - Start **12 Stack** – theory + basic problems (balanced parentheses, next greater element). 
-- **LeetCode:** 7 easy/day + **Striver Sheet Days 1–10** (Arrays & basic math). 
-- **SaaS Analytics (2–2.5 hrs/day):**  
-  - Add usage analytics dashboards using Recharts (active students, courses per teacher).  
-  - Polish UI (consistent theme, responsiveness).  
-  - Deploy to Vercel (separate domain from LMS).  
-- **Applications:** 25/day (TCS, SkillIndia, good LinkedIn postings, startup forms) = **175 total**.
-- **Mock:** 2 sessions (LL + project system design-lite).  
-
-### 🎯 Milestone
-SaaS live ✅, ~625 apps, LL + stacks comfortable.
-
-<br>
+- **DSA**
+  - Complete `11 Linked List` if pending.  
+  - Cover `12 Stack` + `13 Queue` + `14 Deque` key problems (balanced parentheses, next greater element, stock span, sliding window max using deque, queue using stacks) → **20–25 problems** total.[file:32]
+- **Project B – SaaS Analytics**
+  - Integrate charts (Recharts/Chart.js) for metrics (active students, enrollments per course, revenue mock).  
+  - Make dashboards fully responsive and visually consistent (colors, typography).
+- **Deployment**
+  - Deploy SaaS to Vercel + backend host, add README with architecture diagram.  
+- **Applications**
+  - 10–15/day, focus on MERN / full‑stack remote roles with ≥₹5k stipend.
 
 ---
 
-<br>
+### 🗓️ Week 7 (Feb 12–18) – Trees & BST + Project C (Chat) Start
 
-## 🛠️ Week 6: Feb 5–11 (Stack/Queue + Payments)
-
-- **DSA:**  
-  - Finish **12 Stack** and **13 Queue** – ~20 problems (NGO, stock span, sliding window with deque, circular queue). 
-- **LeetCode:** 10 mediums this week (stack/queue-based: Min Stack, Daily Temperatures, Decode String).   
-- **SaaS Payment Stub (2 hrs/day):**  
-  - Integrate Stripe test mode or Razorpay test keys (mock checkout).  
-  - Store payment history per user (no real money needed).  
-- **Applications:** 25/day = **175 total**, prioritize JD with strong MERN + stipend.  
-- **Mock:** 3 sessions (mix of DSA + project deep dive).  
-
-### 🎯 Milestone
-~800 apps, first serious online assessments expected.
-
-<br>
+- **DSA**
+  - Start `15 Tree` + `16 BST`: traversals, height, diameter, left/right view, children‑sum, balanced tree check, kth smallest, floor/ceil in BST → **25 problems**.[file:32]
+- **Project C – Real‑Time Chat**
+  - Setup Socket.io (or WebSockets) server on existing Node backend.  
+  - Implement course‑based rooms, join/leave, broadcast messages and store last 20 messages per room.
+- **LeetCode**
+  - 6–8 tree/BST mediums this week.
 
 ---
 
-<br>
+### 🗓️ Week 8 (Feb 19–25) – Heap + Graphs Intro + Chat Polish
 
-## 🌳 Week 7: Feb 12–18 (Trees + Chat Project 3 Start)
-
-- **DSA:**  
-  - Begin **15 Tree** + **16 Binary Search Tree** together – 25 problems (traversals, height, diameter, LCA, kth smallest in BST). 
-- **LeetCode:** 10 mediums focused on trees (BT level order, ZigZag, Lowest Common Ancestor, Serialize/Deserialize easy version). 
-- **Project 3 – Real-time Chat in SaaS (2 hrs/day):**  
-  - Add Socket.io (or WebSocket) server on existing Node backend.  
-  - Per-course chat rooms; show last 20 messages from DB.  
-- **Applications:** 20/day + ask seniors/alumni for referrals = **140 total**.  
-- **Behavioral:** Write 5 STAR stories (LMS build, SaaS scaling, Chat feature, a bug you solved, team project).  
-
-### 🎯 Milestone
-Trees/BST in progress, Chat base (rooms + basic messaging) working.
-
-<br>
+- **DSA**
+  - `17 Heap`: min/max heap basics, kth largest/smallest, k‑sorted, merge k sorted arrays, median of stream → **15 problems**.[file:32]  
+  - Begin `18 Graph`: adjacency list, BFS, DFS, connected components, shortest path in unweighted graph, cycle detection (undirected) → **10–12 problems**.
+- **Project C – Real‑Time Chat**
+  - Add typing indicators, online/offline status, and read timestamps.  
+  - Integrate chat UI into LMS/SaaS dashboards (per‑course chat panel).
+- **Mocks**
+  - 2 full mocks: 45‑min DSA + 30‑min project deep dive.
 
 ---
 
-<br>
+### 🗓️ Week 9 (Feb 26–Mar 4) – Graphs Deep + Greedy
 
-## 💬 Week 8: Feb 19–25 (Graphs + Chat Live)
-
-- **DSA:**  
-  - Start **18 Graph** – BFS, DFS, adjacency list/matrix, 15 problems (connected components, shortest path in unweighted graph, cycle detection).  
-- **LeetCode:** 12 mediums + **1 contest** this week (graphs/trees heavy). 
-- **Chat Completion (2–2.5 hrs/day):**  
-  - Typing indicators, online/offline status, read receipts.  
-  - Deployed production-ready chat integrated into SaaS dashboards.  
-- **Applications:** 20/day = **140 total**; start targeting foreign remote internships too (US/EU-friendly time zones where possible).  
-- **Mock:** 4/week – full simulation OA → DSA → project → behavioral.  
-
-### 🎯 Milestone
-3 polished live projects (LMS, SaaS, Chat) ✅, 12+ mocks, 5+ interviews.
-
-<br>
+- **DSA**
+  - Continue `18 Graph`: directed cycles, topological sort, shortest path in DAG, simple Dijkstra + **12–15 problems**.[file:32]  
+  - Cover `19 Greedy`: activity selection, fractional knapsack, job sequencing, minimum platforms, simple Huffman‑style question → **10 problems**.
+- **Projects (All Three)**
+  - Minor refactors, code cleanup, environment variable sanity, README polish.  
+  - Record a 3–4 minute Loom/YouTube unlisted walkthrough for each project.
+- **Applications**
+  - Focus on roles with interviews / OAs already in progress; 8–10 targeted new apps/day.
 
 ---
 
-<br>
+### 🗓️ Week 10 (Mar 5–11) – DP Starter + Interview Sprint
 
-## 🎯 Week 9: Feb 26–Mar 4 (Heap + Greedy + Interview Peak)
-
-- **DSA:**  
-  - **17 Heap:** 15 problems (kth largest/smallest, heaps for scheduling, priority queues).  
-  - **19 Greedy:** 10 problems (activity selection, fractional knapsack, minimum platforms, Huffman-style questions). 
-- **LeetCode:** 15 mediums; revisit all wrong submissions and tag by topic. 
-- **Applications:** 15/day + follow-up messages = **105 total**.  
-- **Mock:** 4/week + record English/pronunciation while explaining projects.  
-
-### 🎯 Milestone
-10+ interviews done, 1–2 offers likely in pipeline.
-
-<br>
+- **DSA**
+  - Start `21 Dynamic Programming` (1D/2D DP basics):  
+    - 0/1 knapsack, LIS, coin change, min jumps, house robber / max sum no adjacent, LCS → **10–12 problems**.[file:32]
+- **Interview Prep**
+  - Company‑specific problem sets for ongoing processes (based on tags / topic lists).  
+  - Practice concise project explanations: problem → architecture → key challenges → results.
+- **Career**
+  - Aim to close **first internship offer** this week if possible; still keep pipeline alive.
 
 ---
 
-<br>
+### 🗓️ Weeks 11–12 (Mar 12–Mar 25) – Backtracking / Advanced Topics (Optional)
 
-## 💰 Week 10: Mar 5–11 (Closing Offers)
-
-- **DSA Revision:**  
-  - Revise **Graphs, Trees, DP intro (21 Dynamic Programming basics)** – do 5–7 classic DP problems (0/1 knap, LIS, coin change easy). 
-- **LeetCode:** 2 contests + company-tag problems for companies where you have OA/interview.
-- **Offer Handling:**  
-  - When you get an offer, clearly present: 3 live projects, 500+ DSA, fast learning from this 10-week sprint.  
-  - Try to negotiate to at least 25k/mo if scope & workload justify.  
-- **Applications:** 10/day as backup = **70 total**.  
-
-### 🎯 Milestone
-First offer signed; keep interviewing for better fit/CTC.
-
-<br>
+- **DSA (Optional but Good)**
+  - `20 Backtracking` (N‑Queens, Rat in a Maze, Sudoku) – 5–7 problems.  
+  - Light touch on `22 Trie`, `23 Segment Tree/BIT`, `24 Disjoint Set` (2–3 problems each) only if time or if asked in specific JDs.[file:32]
+- **Projects**
+  - Add unit/integration tests for at least one backend (Jest + Supertest) and minimal frontend tests.  
+  - Add proper error handling + toasts/snackbars across apps.
+- **Interviews**
+  - 3–4 mocks/week (DSA + System Design‑lite + Behavioral).
 
 ---
 
-<br>
+### 🗓️ Weeks 13–14 (Mar 26–Apr 8) – Polish, Docs, and Offer Lock‑In
 
-## 🔒 Weeks 11–14: Mar 12–Apr 8 (Secure + Depth)
-
-- **DSA:**  
-  - Add 10–15 problems from **20 Backtracking**, **22 Trie**, and **23 Segment Tree/BIT** – only if interviews need them. 
-  - Reach 500–600 total problems across GFG + LeetCode + your PDF list.
-- **Projects:**  
-  - Add small polish: dark mode, better error handling, loading states, unit tests where possible.  
-  - Prepare 5–7 minute demo script for each project.  
-- **Career:**  
-  - Try to convert unpaid/low-stipend offers to higher value using your strong portfolio.  
-  - If you get multiple offers, choose remote, tech-heavy, and with mentorship.
-
-<br>
+- **DSA**
+  - Revision weeks: Arrays, Searching, Sorting, Hashing, Strings, Linked List, Stack/Queue, Trees, Graphs, Heap, Greedy, and core DP patterns.  
+  - Re‑solve previously wrong / marked problems.
+- **Projects**
+  - Final polish: dark mode, loading skeletons, 404 pages, small performance fixes.  
+  - Prepare 5–7 minute demo script per project for live interviews.
+- **Career**
+  - Decide between offers (if multiple), prioritizing remote, good mentorship, and strong tech stack.  
+  - If no offer yet, continue application machine: 10+ tailored apps/day + heavy follow‑ups.
 
 ---
 
-<br>
+## 📌 Daily Non‑Negotiables
 
-## 📋 Resume & GitHub Content (Do in Week 2 and Update Later)
-
-### Projects Section (final version by Week 8):
-
-1. **Learning Management System (LMS) – MERN**  
-   - Built full LMS with JWT auth, role-based access, course CRUD, enrollments, and quizzes.  
-   - Tech: React, Node/Express, MongoDB, JWT; Deployed on Vercel/Render.  
-
-2. **SaaS Analytics Platform – MERN + Recharts + Stripe**  
-   - Multi-role dashboards for admins, teachers, and students with real-time analytics.  
-   - Integrated mock payments using Stripe/Razorpay test mode; responsive UI and charts.  
-
-3. **Real-time Course Chat – Socket.io**  
-   - Real-time chat rooms per course with typing indicators and online status inside SaaS.  
-   - Tech: Socket.io, Express, MongoDB; deployed with the SaaS app.
-
-### DSA Line:  
-`Solved 500+ problems (GFG + LeetCode): Arrays, Searching, Sorting, Hashing, Strings, Linked List, Stack/Queue, Trees, Graphs, Heap, Greedy, basic DP.` 
-
-<br>
+- **DSA:** 3–5 problems/day tied directly to the current GFG topic.  
+- **Dev:** 2–3 hours/day on ONE project focus (A → B → C as per schedule).  
+- **Career:** 30–60 minutes/day for applications, outreach, and follow‑ups.  
+- **Tracking:** Update the Application/Progress sheet every night.
 
 ---
 
-## 🎯 How to Apply Smart (So You Actually Get Paid)
-
-- **Targeted filtering:**  
-  - Internshala: use filters (WFH, Computer Science/IT, Web / Full Stack, stipend ≥ 5k). 
-  - LinkedIn: save searches `"SDE intern remote"`, `"Full Stack Intern remote"`, `"MERN intern"` and set alerts. 
-  - Wellfound: focus on startups with funding or decent salary ranges. 
-- **Application message template:**  
-  - 3–4 lines: what you know (MERN + DSA), 3 live projects links, why you fit their JD, availability & duration.  
-- **Referrals:**  
-  - For each company you apply to on LinkedIn, check employees → alumni/seniors → send 1–2 polite messages for referral.  
-- **Consistency rule:**  
-  - Minimum 10–15 solid applications **every single day**, plus 3–5 follow-ups to older ones.
-
-<br>
-
----
-
-<br>
-
-## 🧠 Extra Advice to Be Internship-Ready
-
-- Focus on **clarity of explanation** more than fancy features; interviewers judge how you think.  
-- Every week, record yourself explaining:  
-  - One DSA problem (approach + complexity).  
-  - One feature of LMS/SaaS/Chat (architecture, trade-offs).  
-- Sleep, health, and a little exercise will keep your brain sharp; fever recovery first, then push hard.  
-- Never skip mocks – they compress interview experience into weeks instead of years.
-
-<br>
-
----
-
-<br>
-
-> **💪 Final Note:** Stick to this corrected plan (with **Greedy as Part 19**) and keep executing daily; with 3 strong projects and 500+ DSA problems, you will be **paid remote SDE-internship ready** by the end of this 14‑week sprint.
-
-<br>
-
----
+> **Outcome Target by Apr 8, 2026**  
+> - 450–600 DSA problems across GFG + LeetCode with strong coverage of arrays, searching, sorting, hashing, strings, linked list, stack/queue, trees, graphs, heap, greedy, and basic DP.[file:32]  
+> - 3 polished, deployed MERN projects (LMS, SaaS Analytics, Real‑Time Chat) + existing DevTinder & NASA Mission Control as extra proof.[file:29][file:31]  
+> - One or more **paid remote Full‑Stack SDE internship offers** in the ₹25k–₹40k range.
