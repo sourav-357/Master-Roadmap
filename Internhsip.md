@@ -1,6 +1,6 @@
 # 🚀 14‑Week Paid Remote Full‑Stack SDE Internship Plan
 
-> **Timeline:** Jan 1, 2026 → Apr 8, 2026  
+> **Timeline:** Jan 3, 2026 → Apr 10, 2026  
 > **Goal:** Paid remote Full‑Stack SDE internship (₹25k–₹40k / month)  
 > **Profile:** B.Tech CSE @ UCET (2028) · MERN · GFG DSA Self‑Paced + LeetCode  
 
@@ -30,7 +30,7 @@
 
 ## 📅 Week‑by‑Week Breakdown
 
-### 🗓️ Week 1 (Jan 1–7) – Sorting Kickoff + LMS Setup
+### 🗓️ Week 1 (Jan 3–9) – Sorting Kickoff + LMS Setup
 
 - **DSA**
   - Quick recap: `05 Arrays`, `06 Searching` (only weak topics).  
@@ -44,7 +44,7 @@
 
 ---
 
-### 🗓️ Week 2 (Jan 8–14) – Sorting Done + Matrix + LMS Auth
+### 🗓️ Week 2 (Jan 10–16) – Sorting Done + Matrix + LMS Auth
 
 - **DSA**
   - Finish `07 Sorting` (total ≈25 problems).  
@@ -60,7 +60,7 @@
 
 ---
 
-### 🗓️ Week 3 (Jan 15–21) – Hashing + LMS Core
+### 🗓️ Week 3 (Jan 17–23) – Hashing + LMS Core
 
 - **DSA**
   - Finish `08 Matrix` (15–20 total problems).  
@@ -75,7 +75,7 @@
 
 ---
 
-### 🗓️ Week 4 (Jan 22–28) – Strings + LMS Polish
+### 🗓️ Week 4 (Jan 24–30) – Strings + LMS Polish
 
 - **DSA**
   - Start `10 Strings`: anagrams, palindrome, first non‑repeating char, pattern search, sliding window strings, Rabin‑Karp/KMP basics + **15 problems**.[file:32]
@@ -88,7 +88,7 @@
 
 ---
 
-### 🗓️ Week 5 (Jan 29–Feb 4) – Linked List + Project B (SaaS) Start
+### 🗓️ Week 5 (Jan 31–Feb 6) – Linked List + Project B (SaaS) Start
 
 - **DSA**
   - Start `11 Linked List` (singly + doubly): reverse, middle, detect/remove cycle, intersection, merge two lists, clone LL, reverse in K‑group + **18–20 problems**.[file:32]
@@ -101,7 +101,7 @@
 
 ---
 
-### 🗓️ Week 6 (Feb 5–11) – Stack & Queue + SaaS Analytics
+### 🗓️ Week 6 (Feb 7–13) – Stack & Queue + SaaS Analytics
 
 - **DSA**
   - Complete `11 Linked List` if pending.  
@@ -116,7 +116,7 @@
 
 ---
 
-### 🗓️ Week 7 (Feb 12–18) – Trees & BST + Project C (Chat) Start
+### 🗓️ Week 7 (Feb 14–20) – Trees & BST + Project C (Chat) Start
 
 - **DSA**
   - Start `15 Tree` + `16 BST`: traversals, height, diameter, left/right view, children‑sum, balanced tree check, kth smallest, floor/ceil in BST → **25 problems**.[file:32]
@@ -128,7 +128,7 @@
 
 ---
 
-### 🗓️ Week 8 (Feb 19–25) – Heap + Graphs Intro + Chat Polish
+### 🗓️ Week 8 (Feb 21–27) – Heap + Graphs Intro + Chat Polish
 
 - **DSA**
   - `17 Heap`: min/max heap basics, kth largest/smallest, k‑sorted, merge k sorted arrays, median of stream → **15 problems**.[file:32]  
@@ -141,7 +141,7 @@
 
 ---
 
-### 🗓️ Week 9 (Feb 26–Mar 4) – Graphs Deep + Greedy
+### 🗓️ Week 9 (Feb 28–Mar 6) – Graphs Deep + Greedy
 
 - **DSA**
   - Continue `18 Graph`: directed cycles, topological sort, shortest path in DAG, simple Dijkstra + **12–15 problems**.[file:32]  
@@ -154,7 +154,7 @@
 
 ---
 
-### 🗓️ Week 10 (Mar 5–11) – DP Starter + Interview Sprint
+### 🗓️ Week 10 (Mar 7–13) – DP Starter + Interview Sprint
 
 - **DSA**
   - Start `21 Dynamic Programming` (1D/2D DP basics):  
@@ -167,7 +167,7 @@
 
 ---
 
-### 🗓️ Weeks 11–12 (Mar 12–Mar 25) – Backtracking / Advanced Topics (Optional)
+### 🗓️ Weeks 11–12 (Mar 14–Mar 27) – Backtracking / Advanced Topics (Optional)
 
 - **DSA (Optional but Good)**
   - `20 Backtracking` (N‑Queens, Rat in a Maze, Sudoku) – 5–7 problems.  
@@ -180,7 +180,7 @@
 
 ---
 
-### 🗓️ Weeks 13–14 (Mar 26–Apr 8) – Polish, Docs, and Offer Lock‑In
+### 🗓️ Weeks 13–14 (Mar 28–Apr 10) – Polish, Docs, and Offer Lock‑In
 
 - **DSA**
   - Revision weeks: Arrays, Searching, Sorting, Hashing, Strings, Linked List, Stack/Queue, Trees, Graphs, Heap, Greedy, and core DP patterns.  
@@ -203,7 +203,7 @@
 
 ---
 
-> **Outcome Target by Apr 8, 2026**  
+> **Outcome Target by Apr 10, 2026**  
 > - 450–600 DSA problems across GFG + LeetCode with strong coverage of arrays, searching, sorting, hashing, strings, linked list, stack/queue, trees, graphs, heap, greedy, and basic DP.[file:32]  
 > - 3 polished, deployed MERN projects (LMS, SaaS Analytics, Real‑Time Chat) + existing DevTinder & NASA Mission Control as extra proof.[file:29][file:31]  
 > - One or more **paid remote Full‑Stack SDE internship offers** in the ₹25k–₹40k range.
