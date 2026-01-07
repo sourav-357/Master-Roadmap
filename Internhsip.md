@@ -30,7 +30,7 @@
 
 ## 📅 Week‑by‑Week Breakdown
 
-### 🗓️ Week 1 (Jan 3–9) – Sorting Kickoff + LMS Setup
+### 🗓️ Week 1 (Jan 8–14) – Sorting Kickoff + LMS Setup
 
 - **DSA**
   - Quick recap: `05 Arrays`, `06 Searching` (only weak topics).  
@@ -44,7 +44,7 @@
 
 ---
 
-### 🗓️ Week 2 (Jan 10–16) – Sorting Done + Matrix + LMS Auth
+### 🗓️ Week 2 (Jan 14–20) – Sorting Done + Matrix + LMS Auth
 
 - **DSA**
   - Finish `07 Sorting` (total ≈25 problems).  
