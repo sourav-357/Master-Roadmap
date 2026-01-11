@@ -42,7 +42,7 @@
 ### 🗓️ Week 2 (Jan 15–21) – Matrix + LMS Auth/Deploy
 
 - **DSA**  
-  Finish Sorting (~25 total), `08 Matrix` + **10-12 problems**.
+  Finish Sorting (~25 total), `08 Matrix` + **15 problems**.
 - **LMS**  
   Auth (JWT cookies), pages; deploy Vercel/Render.
 - **Apps**  
@@ -51,7 +51,7 @@
 ### 🗓️ Week 3 (Jan 22–28) – Hashing + LMS Core
 
 - **DSA**  
-  Matrix finish, `09 Hashing` + **18-20 problems**.
+  Matrix question finish, `09 Hashing` + **20 problems**.
 - **LMS**  
   Course CRUD, enrollments, quizzes.
 - **LeetCode** 3-4 easy/day.
