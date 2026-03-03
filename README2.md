@@ -21,6 +21,148 @@ This document covers BOTH phases in one place.
 
 ---
 
+## Technologies: Yes/No/Optional (Complete View)
+
+### **REQUIRED — Phase 1 (Internship)**
+
+Already listed in Phase 1 section. Recap:
+- C++/Java (basics), React, Node.js, Express, SQL, MongoDB, Docker, CI/CD, JWT, Redis, Jest/Supertest, basic system design concepts
+
+### **REQUIRED — Phase 2 (Placement)**
+
+Adding to Phase 1:
+- **Java OOP + Spring Boot** (strong working knowledge)
+- **Spring Data JPA + Hibernate** (solid depth)
+- **Spring Security with JWT** (interview-level)
+- **TypeScript basics** (apply to Node projects)
+- **System Design** (intermediate; design 5–7 real systems)
+- **Two flagship projects** (one Node, one Spring Boot)
+- **Production features**: caching, queuing, monitoring in both ecosystems
+
+### **NOT REQUIRED — Learn After Full-Time Job**
+
+- Deep Kafka / message brokers
+- Full microservices architecture
+- Kubernetes
+- Advanced DevOps (Terraform, Ansible)
+- GraphQL (GraphQL expertise can wait)
+- Machine learning / data science
+- Advanced concurrent programming (reactive systems)
+- Full ELK / Prometheus stack setup
+- Advanced database optimization (query tuning at expert level)
+
+---
+
+## Key Metrics & Checkpoints (Complete View)
+
+### Project Progression
+
+- **Early Phase 1**: Barebones CRUD API
+- **Mid Phase 1**: Full-stack app deployed
+- **Late Phase 1**: Production-ready 2nd project
+- **End Phase 1**: Flagship Node project (fully featured)
+- **Early Phase 2**: Spring Boot backend API recreated
+- **Mid Phase 2**: Flagship Spring Boot project (fully featured)
+- **End Phase 2**: 2 polished flagships + 2–3 additional quality projects
+
+### Application Timeline
+
+- **Internship**: Start applying early Phase 1, secure by end of Phase 1
+- **Full-time roles**: Start applying post-internship
+- **Target**: 50+ applications/month in final phase
+- **Response rate target**: 5–10% (5–10 interviews from 100 apps)
+- **Offer target**: Secure 12–15 LPA role by end of Phase 2
+
+---
+
+## When to Apply for Full-Time Roles (Phase 2)
+
+- **Start applying**: After internship ends or overlap
+- **Heavy pushing**: Final phase
+- **Ideal readiness**: Final checkpoints
+- **Application sources**:
+  - LinkedIn: targeted outreach to recruiters
+  - Company career pages: direct applications
+  - AngelList: startup opportunities
+  - Referrals: through internship mentor/connections
+  - Cold emails: curated list of 30–50 companies
+
+---
+
+## Target Companies (Tier 1 & High-Pay)
+
+**Tier 1 Tech**: Google, Meta, Amazon, Microsoft, Apple, Uber  
+**Tier 2 India**: Atlassian, Postman, Freshworks, Chargebee, Cred, Razorpay  
+**High-Growth Startups**: Groww, Meesho, Zomato, Swiggy, Stripe (if hiring), Databricks, OpenAI (if hiring)  
+**Remote-first**: Vercel, Supabase, Figma, WorkOS  
+
+---
+
+## Resources by Topic (Updated for Phase 2)
+
+### New for Phase 2:
+- **Java**: Effective Java, Java Concurrency in Practice (advanced parts)
+- **Spring Boot**: Official Spring Boot guide, Baeldung (100+ articles), Spring in Action (book)
+- **System Design**: Gaurav Sen (YouTube), Alex Xu's book, DesignGurus.io
+- **Mock Interviews**: Pramp, Interviewing.io, friends from community
+
+---
+
+## Daily/Weekly Habits (Phase 2)
+
+**During Internship**:
+- **Daily**: 1–2 hours dev (learning from internship code)
+- **Weekly**: 1 code review, 1 small project improvement
+
+**Post-Internship**:
+- **Daily**: 2–3 hours dev (flagship projects) + system design
+- **Weekly**:
+  - 1 system design practice (design a new system)
+  - 1 project milestone (feature, optimization, or test coverage)
+  - 1–2 mock interviews (full 90-min session)
+- **Bi-weekly**: Polish one project's documentation/demo
+
+---
+
+## Honest Reality Check
+
+### Phase 1:
+- Ambitious but achievable at 50 hrs/week
+- Success factors: consistency, project focus, aggressive applications
+
+### Phase 2:
+- Ranges from moderate to heavy depending on internship load
+- During internship: lighter load (learn from real work)
+- Post-internship: heavy load (2–3 hrs dev daily)
+- Critical: **Don't waste internship**; apply learnings to side projects
+
+### Key Success Factors (Both Phases):
+1. **Consistency over perfection** — Show up daily, even if just 1 hour
+2. **Real projects beat tutorials** — Build, deploy, get feedback
+3. **Portfolio visibility** — GitHub, live demos, and talking about your work matter enormously
+4. **Aggressive application strategy** — 50+ apps/month; expect 3–5% response
+5. **Learn from feedback** — Each rejection/failure is data; adjust accordingly
+6. **Internship is gold** — Real production code > tutorial projects. Absorb everything.
+7. **Network and referrals** — After internship, leverage connections for referrals (massively higher conversion)
+
+---
+
+## Summary: Your Path to 12–15 LPA
+
+**Phase 1**:
+→ Build strong foundation (Node + React)  
+→ Get a solid SDE internship (apply early)  
+
+**Phase 2**:
+→ Learn production best practices during internship
+→ Build Java/Spring Boot backend expertise
+→ Master system design at interview level
+→ Build flagship projects showing depth
+→ Apply aggressively to full-time roles
+→ **Target 12–15 LPA placement by end of Phase 2**  
+
+---
+
 # PHASE 1: INTERNSHIP FOCUS
 
 ---
@@ -701,109 +843,6 @@ This document covers BOTH phases in one place.
 
 ---
 
-## Technologies: Yes/No/Optional (Complete View)
-
-### **REQUIRED — Phase 1 (Internship)**
-
-Already listed in Phase 1 section. Recap:
-- C++/Java (basics), React, Node.js, Express, SQL, MongoDB, Docker, CI/CD, JWT, Redis, Jest/Supertest, basic system design concepts
-
-### **REQUIRED — Phase 2 (Placement)**
-
-Adding to Phase 1:
-- **Java OOP + Spring Boot** (strong working knowledge)
-- **Spring Data JPA + Hibernate** (solid depth)
-- **Spring Security with JWT** (interview-level)
-- **TypeScript basics** (apply to Node projects)
-- **System Design** (intermediate; design 5–7 real systems)
-- **Two flagship projects** (one Node, one Spring Boot)
-- **Production features**: caching, queuing, monitoring in both ecosystems
-
-### **NOT REQUIRED — Learn After Full-Time Job**
-
-- Deep Kafka / message brokers
-- Full microservices architecture
-- Kubernetes
-- Advanced DevOps (Terraform, Ansible)
-- GraphQL (GraphQL expertise can wait)
-- Machine learning / data science
-- Advanced concurrent programming (reactive systems)
-- Full ELK / Prometheus stack setup
-- Advanced database optimization (query tuning at expert level)
-
----
-
-## Key Metrics & Checkpoints (Complete View)
-
-### Project Progression
-
-- **Early Phase 1**: Barebones CRUD API
-- **Mid Phase 1**: Full-stack app deployed
-- **Late Phase 1**: Production-ready 2nd project
-- **End Phase 1**: Flagship Node project (fully featured)
-- **Early Phase 2**: Spring Boot backend API recreated
-- **Mid Phase 2**: Flagship Spring Boot project (fully featured)
-- **End Phase 2**: 2 polished flagships + 2–3 additional quality projects
-
-### Application Timeline
-
-- **Internship**: Start applying early Phase 1, secure by end of Phase 1
-- **Full-time roles**: Start applying post-internship
-- **Target**: 50+ applications/month in final phase
-- **Response rate target**: 5–10% (5–10 interviews from 100 apps)
-- **Offer target**: Secure 12–15 LPA role by end of Phase 2
-
----
-
-## When to Apply for Full-Time Roles (Phase 2)
-
-- **Start applying**: After internship ends or overlap
-- **Heavy pushing**: Final phase
-- **Ideal readiness**: Final checkpoints
-- **Application sources**:
-  - LinkedIn: targeted outreach to recruiters
-  - Company career pages: direct applications
-  - AngelList: startup opportunities
-  - Referrals: through internship mentor/connections
-  - Cold emails: curated list of 30–50 companies
-
----
-
-## Target Companies (Tier 1 & High-Pay)
-
-**Tier 1 Tech**: Google, Meta, Amazon, Microsoft, Apple, Uber  
-**Tier 2 India**: Atlassian, Postman, Freshworks, Chargebee, Cred, Razorpay  
-**High-Growth Startups**: Groww, Meesho, Zomato, Swiggy, Stripe (if hiring), Databricks, OpenAI (if hiring)  
-**Remote-first**: Vercel, Supabase, Figma, WorkOS  
-
----
-
-## Resources by Topic (Updated for Phase 2)
-
-### New for Phase 2:
-- **Java**: Effective Java, Java Concurrency in Practice (advanced parts)
-- **Spring Boot**: Official Spring Boot guide, Baeldung (100+ articles), Spring in Action (book)
-- **System Design**: Gaurav Sen (YouTube), Alex Xu's book, DesignGurus.io
-- **Mock Interviews**: Pramp, Interviewing.io, friends from community
-
----
-
-## Daily/Weekly Habits (Phase 2)
-
-**During Internship**:
-- **Daily**: 1–2 hours dev (learning from internship code)
-- **Weekly**: 1 code review, 1 small project improvement
-
-**Post-Internship**:
-- **Daily**: 2–3 hours dev (flagship projects) + system design
-- **Weekly**:
-  - 1 system design practice (design a new system)
-  - 1 project milestone (feature, optimization, or test coverage)
-  - 1–2 mock interviews (full 90-min session)
-- **Bi-weekly**: Polish one project's documentation/demo
-
----
-
 ## Final Checklist Before Full-Time Interviews
 
 - [ ] 4–5 GitHub projects with exceptional documentation
@@ -822,46 +861,7 @@ Adding to Phase 1:
 
 ---
 
-## Honest Reality Check
-
-### Phase 1:
-- Ambitious but achievable at 50 hrs/week
-- Success factors: consistency, project focus, aggressive applications
-
-### Phase 2:
-- Ranges from moderate to heavy depending on internship load
-- During internship: lighter load (learn from real work)
-- Post-internship: heavy load (2–3 hrs dev daily)
-- Critical: **Don't waste internship**; apply learnings to side projects
-
-### Key Success Factors (Both Phases):
-1. **Consistency over perfection** — Show up daily, even if just 1 hour
-2. **Real projects beat tutorials** — Build, deploy, get feedback
-3. **Portfolio visibility** — GitHub, live demos, and talking about your work matter enormously
-4. **Aggressive application strategy** — 50+ apps/month; expect 3–5% response
-5. **Learn from feedback** — Each rejection/failure is data; adjust accordingly
-6. **Internship is gold** — Real production code > tutorial projects. Absorb everything.
-7. **Network and referrals** — After internship, leverage connections for referrals (massively higher conversion)
-
----
-
-## Summary: Your Path to 12–15 LPA
-
-**Phase 1**:
-→ Build strong foundation (Node + React)  
-→ Get a solid SDE internship (apply early)  
-
-**Phase 2**:
-→ Learn production best practices during internship
-→ Build Java/Spring Boot backend expertise
-→ Master system design at interview level
-→ Build flagship projects showing depth
-→ Apply aggressively to full-time roles
-→ **Target 12–15 LPA placement by end of Phase 2**  
-
----
-
-**Last updated**: February 2026  
+**Last updated**: 2026  
 **Target Phase 1 outcome**: Paid SDE internship  
 **Target Phase 2 outcome**: 12–15 LPA off-campus full-time placement  
 **Total investment**: ~4800 hours (50 hrs/week × 96 weeks)  
